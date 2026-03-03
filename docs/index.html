@@ -1,0 +1,250 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Polycrise Sentinel — Global Health Funding Tracker</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <style>
+    [x-cloak] { display: none !important; }
+    .badge { @apply inline-flex items-center px-2 py-0.5 rounded text-xs font-semibold; }
+    .card-enter { animation: fadeUp 0.2s ease both; }
+    @keyframes fadeUp {
+      from { opacity: 0; transform: translateY(8px); }
+      to   { opacity: 1; transform: translateY(0); }
+    }
+  </style>
+</head>
+<body class="bg-slate-50 min-h-screen font-sans text-slate-800">
+
+<!-- ── Header ──────────────────────────────────────────────────────────────── -->
+<header class="bg-white border-b border-slate-200 sticky top-0 z-10 shadow-sm">
+  <div class="max-w-7xl mx-auto px-4 py-3 flex flex-col sm:flex-row items-start sm:items-center justify-between gap-2">
+    <div>
+      <h1 class="text-lg font-bold text-slate-900 leading-tight">
+        🌍 Polycrise Sentinel
+      </h1>
+      <p class="text-xs text-slate-500">Global Health Funding Opportunities Tracker</p>
+    </div>
+    <div id="meta" class="text-xs text-slate-400 text-right"></div>
+  </div>
+</header>
+
+<!-- ── Stats bar ───────────────────────────────────────────────────────────── -->
+<div class="max-w-7xl mx-auto px-4 mt-5">
+  <div id="stats" class="grid grid-cols-2 sm:grid-cols-4 gap-3 mb-5">
+    <div class="bg-white rounded-xl border border-slate-200 p-4 text-center shadow-sm">
+      <div id="stat-total" class="text-3xl font-bold text-slate-900">—</div>
+      <div class="text-xs text-slate-500 mt-0.5">Total Opportunities</div>
+    </div>
+    <div class="bg-white rounded-xl border border-slate-200 p-4 text-center shadow-sm">
+      <div id="stat-sources" class="text-3xl font-bold text-slate-900">—</div>
+      <div class="text-xs text-slate-500 mt-0.5">Sources Active</div>
+    </div>
+    <div class="bg-white rounded-xl border border-slate-200 p-4 text-center shadow-sm">
+      <div id="stat-visible" class="text-3xl font-bold text-slate-900">—</div>
+      <div class="text-xs text-slate-500 mt-0.5">Showing</div>
+    </div>
+    <div class="bg-white rounded-xl border border-slate-200 p-4 text-center shadow-sm">
+      <div id="stat-updated" class="text-sm font-semibold text-slate-700 leading-snug mt-1">—</div>
+      <div class="text-xs text-slate-500 mt-0.5">Last Updated</div>
+    </div>
+  </div>
+
+  <!-- ── Filters ─────────────────────────────────────────────────────────── -->
+  <div class="flex flex-col sm:flex-row gap-3 mb-5">
+    <input
+      id="search"
+      type="text"
+      placeholder="Search title, agency, description…"
+      class="flex-1 rounded-lg border border-slate-300 px-4 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-blue-400 bg-white shadow-sm"
+      oninput="render()"
+    />
+    <select
+      id="sort"
+      class="rounded-lg border border-slate-300 px-3 py-2 text-sm bg-white shadow-sm focus:outline-none focus:ring-2 focus:ring-blue-400"
+      onchange="render()"
+    >
+      <option value="title">Sort: Title A→Z</option>
+      <option value="deadline">Sort: Deadline soonest</option>
+      <option value="source">Sort: Source</option>
+    </select>
+  </div>
+
+  <!-- Source filter chips -->
+  <div id="source-filters" class="flex flex-wrap gap-2 mb-5"></div>
+</div>
+
+<!-- ── Cards grid ──────────────────────────────────────────────────────────── -->
+<main class="max-w-7xl mx-auto px-4 pb-16">
+  <div id="loading" class="text-center py-24 text-slate-400 text-sm">Loading opportunities…</div>
+  <div id="empty"   class="hidden text-center py-24 text-slate-400 text-sm">No opportunities match your search.</div>
+  <div id="grid" class="grid gap-4 sm:grid-cols-2 lg:grid-cols-3"></div>
+</main>
+
+<script>
+// ── Source metadata ─────────────────────────────────────────────────────────
+const SOURCE_META = {
+  "Grants.gov":                          { label: "Grants.gov",       color: "bg-blue-100 text-blue-800" },
+  "WHO":                                 { label: "WHO",               color: "bg-emerald-100 text-emerald-800" },
+  "Gates Foundation (Grand Challenges)": { label: "Gates Foundation",  color: "bg-violet-100 text-violet-800" },
+  "Wellcome Trust":                      { label: "Wellcome Trust",    color: "bg-rose-100 text-rose-800" },
+  "ReliefWeb":                           { label: "ReliefWeb",         color: "bg-amber-100 text-amber-800" },
+  "EU Funding & Tenders Portal":         { label: "EU Health",         color: "bg-sky-100 text-sky-800" },
+  "Simpler Grants.gov":                  { label: "Simpler Grants",    color: "bg-indigo-100 text-indigo-800" },
+  "UN Partner Portal":                   { label: "UN Portal",         color: "bg-teal-100 text-teal-800" },
+};
+
+// ── State ───────────────────────────────────────────────────────────────────
+let ALL = [];
+let activeSource = "all";
+
+function sourceMeta(key) {
+  return SOURCE_META[key] || { label: key, color: "bg-slate-100 text-slate-700" };
+}
+
+function fmtDate(d) {
+  if (!d) return null;
+  try {
+    const dt = new Date(d);
+    if (isNaN(dt)) return d;
+    return dt.toLocaleDateString("en-GB", { day: "numeric", month: "short", year: "numeric" });
+  } catch { return d; }
+}
+
+// ── Render ──────────────────────────────────────────────────────────────────
+function render() {
+  const q  = document.getElementById("search").value.toLowerCase().trim();
+  const so = document.getElementById("sort").value;
+
+  let list = ALL.filter(o => {
+    if (activeSource !== "all" && o.source !== activeSource) return false;
+    if (!q) return true;
+    return (
+      (o.title       || "").toLowerCase().includes(q) ||
+      (o.agency      || "").toLowerCase().includes(q) ||
+      (o.description || "").toLowerCase().includes(q)
+    );
+  });
+
+  list.sort((a, b) => {
+    if (so === "deadline") {
+      const da = a.deadline || "9999", db = b.deadline || "9999";
+      return da < db ? -1 : da > db ? 1 : 0;
+    }
+    if (so === "source") return (a.source||"").localeCompare(b.source||"");
+    return (a.title||"").localeCompare(b.title||"");
+  });
+
+  document.getElementById("stat-visible").textContent = list.length.toLocaleString();
+
+  const grid  = document.getElementById("grid");
+  const empty = document.getElementById("empty");
+  grid.innerHTML = "";
+
+  if (list.length === 0) {
+    empty.classList.remove("hidden");
+    return;
+  }
+  empty.classList.add("hidden");
+
+  list.forEach((o, i) => {
+    const m    = sourceMeta(o.source || "");
+    const dl   = fmtDate(o.deadline);
+    const desc = (o.description || "").slice(0, 180).trim();
+
+    const card = document.createElement("div");
+    card.className = "card-enter bg-white rounded-xl border border-slate-200 shadow-sm p-5 flex flex-col gap-3 hover:shadow-md transition-shadow";
+    card.style.animationDelay = `${Math.min(i * 20, 300)}ms`;
+
+    card.innerHTML = `
+      <div class="flex items-start justify-between gap-2">
+        <span class="badge ${m.color}">${m.label}</span>
+        ${dl ? `<span class="text-xs text-slate-400 shrink-0">⏰ ${dl}</span>` : ""}
+      </div>
+      <div>
+        ${o.url
+          ? `<a href="${o.url}" target="_blank" rel="noopener noreferrer"
+               class="font-semibold text-slate-900 hover:text-blue-600 transition-colors leading-snug line-clamp-3">
+               ${esc(o.title || "Untitled")}
+             </a>`
+          : `<p class="font-semibold text-slate-900 leading-snug line-clamp-3">${esc(o.title || "Untitled")}</p>`
+        }
+        ${o.agency ? `<p class="text-xs text-slate-500 mt-1">${esc(o.agency)}</p>` : ""}
+      </div>
+      ${desc ? `<p class="text-sm text-slate-600 line-clamp-3">${esc(desc)}${o.description && o.description.length > 180 ? "…" : ""}</p>` : ""}
+      ${o.url ? `<a href="${o.url}" target="_blank" rel="noopener noreferrer"
+                   class="mt-auto text-xs font-medium text-blue-600 hover:underline">
+                   View opportunity →
+                 </a>` : ""}
+    `;
+    grid.appendChild(card);
+  });
+}
+
+function esc(s) {
+  return String(s)
+    .replace(/&/g,"&amp;").replace(/</g,"&lt;")
+    .replace(/>/g,"&gt;").replace(/"/g,"&quot;");
+}
+
+// ── Source filter chips ─────────────────────────────────────────────────────
+function buildSourceChips(bySource) {
+  const container = document.getElementById("source-filters");
+  container.innerHTML = "";
+
+  const allBtn = makeChip("all", "All Sources", activeSource === "all");
+  container.appendChild(allBtn);
+
+  Object.entries(bySource)
+    .sort((a, b) => b[1] - a[1])
+    .forEach(([key, count]) => {
+      const m = sourceMeta(key);
+      container.appendChild(makeChip(key, `${m.label} (${count})`, activeSource === key));
+    });
+}
+
+function makeChip(key, label, active) {
+  const btn = document.createElement("button");
+  btn.className = active
+    ? "badge bg-slate-800 text-white cursor-pointer px-3 py-1"
+    : "badge bg-white border border-slate-300 text-slate-600 hover:border-slate-500 cursor-pointer px-3 py-1";
+  btn.textContent = label;
+  btn.addEventListener("click", () => {
+    activeSource = key;
+    buildSourceChips(window._bySource || {});
+    render();
+  });
+  return btn;
+}
+
+// ── Load data ───────────────────────────────────────────────────────────────
+async function load() {
+  try {
+    const res  = await fetch("opportunities.json?t=" + Date.now());
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    const data = await res.json();
+
+    ALL = data.opportunities || [];
+    window._bySource = data.by_source || {};
+
+    document.getElementById("stat-total").textContent   = (data.total || ALL.length).toLocaleString();
+    document.getElementById("stat-sources").textContent = Object.keys(data.by_source || {}).length;
+    document.getElementById("stat-updated").textContent = data.last_updated
+      ? fmtDate(data.last_updated)
+      : "—";
+    document.getElementById("meta").innerHTML =
+      `Updated ${data.last_updated ? fmtDate(data.last_updated) : "—"}`;
+
+    document.getElementById("loading").classList.add("hidden");
+    buildSourceChips(data.by_source || {});
+    render();
+  } catch (err) {
+    document.getElementById("loading").textContent = `Could not load opportunities.json — ${err.message}`;
+  }
+}
+
+load();
+</script>
+</body>
+</html>

@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Virtual environments
+.venv/
+env/
+venv/
+ENV/
+
+# Secrets — never commit these
+.env
+
+# Logs
+outputs/*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/settings.json
+.idea/
+
+# Raw data (large files — optional to keep in git)
+data/raw/
+
+# NOTE: these ARE committed intentionally:
+#   docs/opportunities.json   — powers the GitHub Pages dashboard
+#   data/processed/agent_seen_opportunities.json — persists "seen" state between runs
