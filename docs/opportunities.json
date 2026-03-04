@@ -1,14 +1,124 @@
 {
-  "last_updated": "2026-03-03T07:36:23Z",
-  "total": 242,
+  "last_updated": "2026-03-04T07:31:53Z",
+  "total": 247,
   "by_source": {
-    "Grants.gov": 155,
+    "Grants.gov": 159,
     "WHO": 9,
     "Gates Foundation (Grand Challenges)": 6,
     "Wellcome Trust": 13,
-    "ReliefWeb": 59
+    "ReliefWeb": 60
   },
   "opportunities": [
+    {
+      "id": "361396",
+      "title": "FY 2026 English Access Scholarship Program",
+      "agency": "DOS-ECA",
+      "deadline": "05/01/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361396",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361395",
+      "title": "U.S. Ambassadors Fund for Cultural Preservation Freedom 250",
+      "agency": "DOS-ECA",
+      "deadline": "04/15/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361395",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361394",
+      "title": "NEI Collaborative Clinical Vision Research (UG1 - Clinical Trial Optional)",
+      "agency": "HHS-NIH11",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361394",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361393",
+      "title": "Early Career Research Program (ECRP)",
+      "agency": "PAMS-SC",
+      "deadline": "06/02/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361393",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361398",
+      "title": "FY 2026 J. Christopher Stevens Virtual Exchange Initiative   (JCSVEI) Program",
+      "agency": "DOS-ECA",
+      "deadline": "05/01/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361398",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361402",
+      "title": "FY 2026 American Film Showcase",
+      "agency": "DOS-ECA",
+      "deadline": "06/01/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361402",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361401",
+      "title": "FY 2026 Ngawang Choephel Fellows Program",
+      "agency": "DOS-ECA",
+      "deadline": "05/01/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361401",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361397",
+      "title": "FY 2026 National Security Language Initiative for Youth (NSLI-Y)",
+      "agency": "DOS-ECA",
+      "deadline": "05/01/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361397",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361400",
+      "title": "FY 2026 Leaders Lead On-Demand",
+      "agency": "DOS-ECA",
+      "deadline": "05/05/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361400",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361403",
+      "title": "Expanding Financial Literacy and Empowerment: Increasing Awareness and Use of ABLE Accounts for Americans with Disabilities",
+      "agency": "HHS-ACL",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361403",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "360889",
+      "title": "Drug-Free Communities (DFC) Support Program &ndash; COMPETING CONTINUATION (Year 6)",
+      "agency": "HHS-CDC-NCIPC",
+      "deadline": "04/14/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/360889",
+      "source": "Grants.gov",
+      "description": ""
+    },
     {
       "id": "361388",
       "title": "Securing Convictions from Vetted and Special Unit Operations",
@@ -150,112 +260,12 @@
       "description": ""
     },
     {
-      "id": "361337",
-      "title": "Region 08 Fiscal Year 2025 Wetland Program Development Grants",
-      "agency": "EPA",
-      "deadline": "04/20/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361337",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "361339",
-      "title": "Feed the Future Innovation Labs",
-      "agency": "DOS-GFS",
-      "deadline": "04/03/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361339",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "361335",
-      "title": "Region 1 Fiscal Year 2025 Wetland Program Development Grants",
-      "agency": "EPA",
-      "deadline": "04/24/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361335",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "361336",
-      "title": "OSERS-OSEP: State Technical Assistance Projects to Improve Services and Results for DeafBlind Children, Assistance Listing Number 84.326T",
-      "agency": "ED",
-      "deadline": "04/21/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361336",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "361330",
-      "title": "FY 2026 Young Southeast Asian Leaders Initiative (YSEALI)  Professional Fellowship",
-      "agency": "DOS-ECA",
-      "deadline": "04/20/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361330",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "361327",
-      "title": "FY 2026 Community College Administrator Program",
-      "agency": "DOS-ECA",
-      "deadline": "04/20/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361327",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "361331",
-      "title": "Region 2 Fiscal Year 2025 Wetland Program Development Grants",
-      "agency": "EPA",
-      "deadline": "04/10/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361331",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "361329",
-      "title": "Comprehensive Addiction and Recovery Act (CARA)",
-      "agency": "HHS-CDC-NCIPC",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361329",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "361325",
-      "title": "BJA FY25 Public Safety and Mental Health Initiative",
-      "agency": "USDOJ-OJP-BJA",
-      "deadline": "03/30/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361325",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "361311",
-      "title": "Region 7 Fiscal Year 2025 Wetland Program Development Grants",
-      "agency": "EPA",
+      "id": "361405",
+      "title": "State and Jurisdictional Humanities CouncilsGeneral Operating Support Grants",
+      "agency": "NEH",
       "deadline": "04/06/2026",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361311",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "361312",
-      "title": "Region 06 Fiscal Year 2025 Wetland Program Development Grants",
-      "agency": "EPA",
-      "deadline": "04/06/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361312",
+      "url": "https://www.grants.gov/search-results-detail/361405",
       "source": "Grants.gov",
       "description": ""
     },
@@ -310,16 +320,6 @@
       "description": ""
     },
     {
-      "id": "361389",
-      "title": "State and Jurisdictional Humanities CouncilsGeneral Operating Support Grants",
-      "agency": "NEH",
-      "deadline": "04/06/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361389",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
       "id": "361374",
       "title": "Rural Microentrepreneur Program(RMAP)",
       "agency": "USDA-RBCS",
@@ -356,6 +356,16 @@
       "deadline": "",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/361376",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361337",
+      "title": "Region 08 Fiscal Year 2025 Wetland Program Development Grants",
+      "agency": "EPA",
+      "deadline": "04/20/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361337",
       "source": "Grants.gov",
       "description": ""
     },
@@ -700,6 +710,36 @@
       "description": ""
     },
     {
+      "id": "361339",
+      "title": "Feed the Future Innovation Labs",
+      "agency": "DOS-GFS",
+      "deadline": "04/03/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361339",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361336",
+      "title": "OSERS-OSEP: State Technical Assistance Projects to Improve Services and Results for DeafBlind Children, Assistance Listing Number 84.326T",
+      "agency": "ED",
+      "deadline": "04/21/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361336",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361329",
+      "title": "Comprehensive Addiction and Recovery Act (CARA)",
+      "agency": "HHS-CDC-NCIPC",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361329",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
       "id": "360602",
       "title": "2026 Wood Products Infrastructure Assistance Program",
       "agency": "USDA-FS",
@@ -846,36 +886,6 @@
       "deadline": "04/10/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/361240",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "359725",
-      "title": "The Metastasis Research Network (MetNet): MetNet Research Projects (U01 Clinical Trial Not Allowed)",
-      "agency": "HHS-NIH11",
-      "deadline": "11/22/2028",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/359725",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "361216",
-      "title": "Specialized Alcohol Research Centers (P50 Clinical trial Optional)",
-      "agency": "HHS-NIH11",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361216",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "361217",
-      "title": "Wildfire Smoke Preparedness in Community Buildings",
-      "agency": "EPA",
-      "deadline": "04/15/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361217",
       "source": "Grants.gov",
       "description": ""
     },
@@ -1420,12 +1430,42 @@
       "description": ""
     },
     {
-      "id": "361314",
-      "title": "Building EPSCoR-State/National Laboratory Partnerships",
-      "agency": "PAMS-SC",
-      "deadline": "05/21/2026",
+      "id": "361335",
+      "title": "Region 1 Fiscal Year 2025 Wetland Program Development Grants",
+      "agency": "EPA",
+      "deadline": "04/24/2026",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361314",
+      "url": "https://www.grants.gov/search-results-detail/361335",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361331",
+      "title": "Region 2 Fiscal Year 2025 Wetland Program Development Grants",
+      "agency": "EPA",
+      "deadline": "04/10/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361331",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361311",
+      "title": "Region 7 Fiscal Year 2025 Wetland Program Development Grants",
+      "agency": "EPA",
+      "deadline": "04/06/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361311",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361312",
+      "title": "Region 06 Fiscal Year 2025 Wetland Program Development Grants",
+      "agency": "EPA",
+      "deadline": "04/06/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361312",
       "source": "Grants.gov",
       "description": ""
     },
@@ -1460,12 +1500,32 @@
       "description": ""
     },
     {
+      "id": "361314",
+      "title": "Building EPSCoR-State/National Laboratory Partnerships",
+      "agency": "PAMS-SC",
+      "deadline": "05/21/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361314",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
       "id": "361274",
       "title": "FY 2026 Implementation of the U.S. Integrated Ocean Observing System (IOOS)",
       "agency": "DOC-DOCNOAAERA",
       "deadline": "04/13/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/361274",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361217",
+      "title": "Wildfire Smoke Preparedness in Community Buildings",
+      "agency": "EPA",
+      "deadline": "04/15/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361217",
       "source": "Grants.gov",
       "description": ""
     },
@@ -1526,26 +1586,6 @@
       "deadline": "03/15/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/361152",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "361098",
-      "title": "Environmental Education Grant Program",
-      "agency": "EPA",
-      "deadline": "03/03/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361098",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "361100",
-      "title": "San Francisco Bay Restoration Grants",
-      "agency": "EPA",
-      "deadline": "03/03/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361100",
       "source": "Grants.gov",
       "description": ""
     },
@@ -1812,6 +1852,42 @@
       "description": "Active Wellcome funding scheme: Mental Health Award Transforming Early Intervention. Visit the URL for eligibility and deadlines."
     },
     {
+      "id": "4201052",
+      "title": "Escalation in the Middle East \u2013 humanitarian implications: Statement by Tom Fletcher, USG for Humanitarian Affairs and Emergency Relief Coordinator",
+      "agency": "UN Office for the Coordination of Humanitarian Affairs",
+      "deadline": "",
+      "url": "https://reliefweb.int/node/4201052",
+      "source": "ReliefWeb",
+      "description": "The humanitarian fallout from the escalation of violence in the Middle East is increasingly daunting.\n\n First, civilians are paying the price across the region. Civilians must be protected - full stop. Yet strikes are hitting homes, hospitals, and schools. Civilians and civilian infrastructure have been under attack in Iran, Lebanon, Syria, the Occupied Palestinian Territory (OPT), Israel, the Uni"
+    },
+    {
+      "id": "4201003",
+      "title": "Middle East and regional escalation: 5 ways to talk to children about conflict",
+      "agency": "Save the Children",
+      "deadline": "",
+      "url": "https://reliefweb.int/node/4201003",
+      "source": "ReliefWeb",
+      "description": "**LONDON/GENEVA, 3 March 2026 \u2013** As hostilities escalate in the Middle East and the wider region, children may see and hear about the conflict in the news or in real life, leading to feelings of anxiety and fear, and needing parents\u2019 and caregivers\u2019 support.\n\n**Save the Children\u2019s Global Head of Child Protection, Rebecca Smith**, said children may have questions about the images, stories, and con"
+    },
+    {
+      "id": "4200923",
+      "title": "The Case For Action on Global homelessness - Why homelessness can no longer be ignored in climate, health and education agendas",
+      "agency": "Depaul International",
+      "deadline": "",
+      "url": "https://reliefweb.int/node/4200923",
+      "source": "ReliefWeb",
+      "description": "**EXECUTIVE SUMMARY**\n\nHomelessness is a global problem which has a catastrophic impact on individuals, families and communities. Global estimates of the scale of homelessness vary widely due to the challenges that we describe in this report, but if the global population of people estimated to be living on the streets or in temporary shelter were counted as a single country, they would number in t"
+    },
+    {
+      "id": "4200874",
+      "title": "ENSO neutral conditions expected as La Ni\u00f1a fades, but El Ni\u00f1o chances rise",
+      "agency": "World Meteorological Organization",
+      "deadline": "",
+      "url": "https://reliefweb.int/node/4200874",
+      "source": "ReliefWeb",
+      "description": "[ ](https://wmo.int/)\n\n[ ](https://wmo.int/)\n\nGeneva (WMO) \u2013 The recent weak La Ni\u00f1a event is expected to fade into ENSO-neutral conditions which may swing to a warming El Ni\u00f1o episode later this year, according to the latest Update from the World Meteorological Organization (WMO).\n\n- Weak La Ni\u00f1a is fading\n- Neutral conditions (neither El Ni\u00f1o nor La Ni\u00f1a) are expected until July\n- Model forecast"
+    },
+    {
       "id": "4200812",
       "title": "UNICEF Afghanistan Humanitarian Situation Report No. 1, January 2026",
       "agency": "UN Children's Fund",
@@ -1866,40 +1942,31 @@
       "description": "**As of 18:00 on 25 February 2026, unless otherwise noted**\n\n*This report, issued every Friday, outlines efforts and progress made by the UN and its partners to scale up the humanitarian response across the Gaza Strip following the ceasefire that entered into effect on 10 October 2025. The next report will be issued on 6 March. For all situation reports* [*see here*](https://www.ochaopt.org/public"
     },
     {
-      "id": "4200520",
-      "title": "Belize comes together to improve how disaster losses and damages are tracked and monitored",
-      "agency": "UN Office for Disaster Risk Reduction",
+      "id": "4200955",
+      "title": "Epidemic and emerging disease alerts in the Pacific as of 03 March 2026",
+      "agency": "Pacific Community",
       "deadline": "",
-      "url": "https://reliefweb.int/node/4200520",
+      "url": "https://reliefweb.int/node/4200955",
       "source": "ReliefWeb",
-      "description": "When disasters strike in Belize, the full picture of their impacts on people, livelihoods, infrastructure, and the environment can be difficult to capture. Recognizing this challenge, national institutions came together to explore how quality data, accompanied by better data governance, shared standards, and coordination can help the country more consistently record hazardous events and their asso"
+      "description": "**Highlights/updates since the last map was sent on PacNet on 24 February 2026:**\n\n**Dengue**\n\n- **New Caledonia:** As of 26 February 2026, 117 dengue cases have been reported in New Caledonia since the 01 January 2026, including 104 confirmed and nine probable locally acquired cases, alongside three imported cases and one clinical case. DENV\u20111 remains the predominant serotype among locally acquir"
     },
     {
-      "id": "4200480",
-      "title": "One year since UK aid cuts, INGO leaders highlight devastating impact",
-      "agency": "War Child UK",
+      "id": "4200921",
+      "title": "UNHCR Romania: Ukraine Refugee Situation Update, Weekly Update #185, 2 March 2026",
+      "agency": "UN High Commissioner for Refugees",
       "deadline": "",
-      "url": "https://reliefweb.int/node/4200480",
+      "url": "https://reliefweb.int/node/4200921",
       "source": "ReliefWeb",
-      "description": "One year ago today, the Prime Minister announced in Parliament his decision to break Labour\u2019s manifesto pledge and cut the UK\u2019s Official Development Assistance (ODA) budget from 0.5% to 0.3% by 2027 \u2013 set to be the steepest reduction of any G7 country.\n\nAs 93 leaders of the UK INGO sector, we write to mark this grim anniversary and the devastating impacts of the cuts in the last year \u2013 and urge th"
+      "description": "**Highlights**\n\nOn 24 February, the Inter-Agency Coordination Platform in Romania in collaboration with the Department for Emergency Situations (DSU), marked four years of the refugee response at UNHCR\u2019s Community Centre for refugees at RomExpo in Bucharest. The event brought together over 100 participants, including senior state and government officials, the Diplomatic Corps and Refugee Response "
     },
     {
-      "id": "4200466",
-      "title": "Huge influx of aid urgently needed amid catastrophic conditions in Gaza",
-      "agency": "M\u00e9decins Sans Fronti\u00e8res",
+      "id": "4200868",
+      "title": "Free Healthcare Services to Reduce the Spread of Cholera",
+      "agency": "Building Foundation for Development",
       "deadline": "",
-      "url": "https://reliefweb.int/node/4200466",
+      "url": "https://reliefweb.int/node/4200868",
       "source": "ReliefWeb",
-      "description": "- Despite the 1 March 2026 deadline for 37 NGOs to leave Palestine, MSF is committed to remaining to provide assistance.\n- Under international humanitarian law, the Israeli authorities, as the occupying power, are obliged to ensure the provision of humanitarian assistance.\n- Governments worldwide must ensure that International Court of Justice decisions are respected, including facilitating the pr"
-    },
-    {
-      "id": "4200404",
-      "title": "Local voices, local data: how localization can strengthen malaria elimination across Africa",
-      "agency": "World Health Organization",
-      "deadline": "",
-      "url": "https://reliefweb.int/node/4200404",
-      "source": "ReliefWeb",
-      "description": "For a health facility in northern Togo, effective analysis and use of routine surveillance data can mean the difference between identifying a rise in malaria cases early or only recognizing it once wards are full and children present with severe disease. For malaria programmes across Africa, the ability of health workers to understand and act on data directly shapes who receives timely care.\n\nYet "
+      "description": "Cholera is a bacterial disease spread through contaminated water or food, leading to severe diarrhea and rapid dehydration. It is a fast-moving epidemic that can be life-threatening if not treated promptly.\n\nOne day, Sua'ad was suddenly struck by repeated episodes of watery diarrhea in large amounts, accompanied by extreme fatigue and nausea. Sua'ad Mohammed, a 50-year-old woman, lives with her fa"
     },
     {
       "id": "4200814",
@@ -1947,40 +2014,22 @@
       "description": "**From Evidence to Action: Good Practices Strengthening Home\u2011Grown School Feeding Across Africa**\n\nEvery year on March 1st, Africa reaffirms a simple but powerful conviction: **no child should have to learn on an empty stomach**. The African Day of School Feeding (ADSF) serves as a continent\u2011wide reminder that a school meal is far more than food: it is a driver of learning, equity, resilience, and"
     },
     {
-      "id": "4200680",
-      "title": "Tanzania Strengthens Water Safety Capacity in Morogoro",
-      "agency": "World Health Organization",
+      "id": "4201042",
+      "title": "Remote care can make the difference between life and death for women in Liwale",
+      "agency": "M\u00e9decins Sans Fronti\u00e8res",
       "deadline": "",
-      "url": "https://reliefweb.int/node/4200680",
+      "url": "https://reliefweb.int/node/4201042",
       "source": "ReliefWeb",
-      "description": "*\u201cFrontline officers empowered to protect communities\u201d*\n\n**Morogoro, February 2026 \u2013** The Ministry of Health, through the Directorate of Preventive Services and the Environmental Health and Sanitation Section, has successfully strengthened Tanzania\u2019s ability to detect and prevent waterborne health threats at community level and designated Points of Entry (PoEs).\n\nContaminated water can silently f"
+      "description": "An MSF doctor explains how portable ultrasounds are helping to identify high-risk pregnancies before complications arise.\n\nTo reach these women, Doctors Without Borders/M\u00e9decins Sans Fronti\u00e8res (MSF) teams in the region are using portable ultrasounds to identify high-risk pregnancies early, instead of waiting until it\u2019s too late to reach a health facility in time.\n\nBelow, Dr. Sarah Meyer, an MSF m"
     },
     {
-      "id": "4200658",
-      "title": "QRCS enhances medical services in River Nile State [EN/AR]",
-      "agency": "Qatar Red Crescent Society",
+      "id": "4200867",
+      "title": "Free Healthcare in Service of Humanity",
+      "agency": "Building Foundation for Development",
       "deadline": "",
-      "url": "https://reliefweb.int/node/4200658",
+      "url": "https://reliefweb.int/node/4200867",
       "source": "ReliefWeb",
-      "description": "**March #, 2026 \u2015 Doha, Qatar:** The representation office of Qatar Red Crescent Society (QRCS) in Sudan has completed the comprehensive maintenance and rehabilitation works at the Jabalab Health Center in River Nile State, with a view to supporting health care services and ensuring the continuity of essential medical care in Jabalab and neighboring villages.\n\nThe three-phase project involved prem"
-    },
-    {
-      "id": "4200606",
-      "title": "Iran, Islamic Republic of - Complex Emergency 2026: DREF Operation (MDRIR018)",
-      "agency": "International Federation of Red Cross and Red Crescent Societies",
-      "deadline": "",
-      "url": "https://reliefweb.int/node/4200606",
-      "source": "ReliefWeb",
-      "description": "**Description of the Event**\n\n**Date of event**\n\n28-02-2026\n\n**What happened, where and when?**\n\nOn 28 February 2026, a significant military escalation was reported across Iran following coordinated attacks against Iranian targets. Multiple explosions occurred in Tehran and other urban areas during the early morning hours, with air raid sirens sounding in parts of the country and reportedly in nei"
-    },
-    {
-      "id": "4200596",
-      "title": "UNICEF Latin America and the Caribbean Region Humanitarian Situation Report No. 2 (End of Year), 31 December 2025",
-      "agency": "UN Children's Fund",
-      "deadline": "",
-      "url": "https://reliefweb.int/node/4200596",
-      "source": "ReliefWeb",
-      "description": "**Highlights**\n\n- Throughout 2025, Latin America and the Caribbean faced overlapping climate-related and public health humanitarian emergencies. Floods, hurricanes, droughts and wildfires across Central America and the Caribbean, the Amazon basin and the Southern Cone disrupted access to safe water, education, health care and protection services, disproportionately affecting children in vulnerable"
+      "description": "In Al-Hodeidah Governorate \u2013 Jabal Ras District \u2013 Al-Ashaer area, Na\u2019ayim Saeed lives with her family of seven in extreme poverty. The family\u2019s situation is dire, as her husband, a daily wage laborer, struggles to provide his family with their basic needs, particularly medical care.\n\nOne day, Na\u2019ayim began feeling labor pains that started as mild cramps but grew stronger as time passed. By the fol"
     },
     {
       "id": "4200389",
@@ -2046,22 +2095,22 @@
       "description": "**JONGLEI STATE, South Sudan** \u2013 \u201cI left at night, crawling to avoid the crossfire,\u201d said Rachiel, a mother of seven from Baidit, in South Sudan\u2019s Jonglei State. \u201cIt took me two days to reach safety \u2013 I arrived with nothing but my life.\u201d\n\nAfter fleeing an [upsurge in violence](https://www.unfpa.org/press/unfpa-statement-escalating-crisis-women-and-girls-south-sudan) that has broken out in recent m"
     },
     {
-      "id": "4199606",
-      "title": "Gaza Humanitarian Response | Situation Report No. 68",
-      "agency": "UN Office for the Coordination of Humanitarian Affairs",
+      "id": "4200953",
+      "title": "Rapid Gender Analysis Report, Darfur Program Area (October 2025)",
+      "agency": "Plan International",
       "deadline": "",
-      "url": "https://reliefweb.int/node/4199606",
+      "url": "https://reliefweb.int/node/4200953",
       "source": "ReliefWeb",
-      "description": "**As of 18:00 on 18 February 2026, unless otherwise noted**\n\n*This report, issued every Friday, outlines efforts and progress made by the UN and its partners to scale up the humanitarian response across the Gaza Strip following the ceasefire that entered into effect on 10 October 2025. The next report will be issued on 27 February. For all situation reports* [*see here*](https://www.ochaopt.org/pu"
+      "description": "**Fear of rape and violence traps Sudan\u2019s girls inside camps, as conflict nears its fourth year**\n\nWith an increasing number of rape and violence cases, girls report feeling safe only within the narrow confines of their homes or camps during the day. This limits their lives to just a few metres, essentially cutting them off from their previous lives.\n\nA new Rapid Gender Analysis by Plan Internatio"
     },
     {
-      "id": "4199515",
-      "title": "Lost between borders: South Sudan\u2019s forgotten crises",
-      "agency": "M\u00e9decins Sans Fronti\u00e8res",
+      "id": "4200891",
+      "title": "'Mothers in survival mode': Standing together against Food Insecurity in Cameroon",
+      "agency": "International Federation of Red Cross and Red Crescent Societies",
       "deadline": "",
-      "url": "https://reliefweb.int/node/4199515",
+      "url": "https://reliefweb.int/node/4200891",
       "source": "ReliefWeb",
-      "description": "## In the world\u2019s youngest country, photographer Nicol\u00f2 Filippo Rosso finds \u201ca stark manifestation of layers upon layers of violence, tragedy, and conflict.\u201d\n\n### Barely a decade after gaining independence, the world\u2019s youngest nation, [South Sudan](https://www.doctorswithoutborders.org/what-we-do/where-we-work/south-sudan), continues to face overlapping crises: open conflict, violence, insecurity"
+      "description": "**IFRC is launching an Emergency appeal**\n\nAs food insecurity deepens across climate- and conflict-affected regions, the IFRC, in support of the Cameroon Red Cross, is launching a[ 9.6 million CHF Emergency Appeal to scale up urgent and life-saving assistance.](https://www.ifrc.org/emergency/cameroon-food-insecurity-2026)\n\nThe response is grounded in direct evidence from affected communities and r"
     },
     {
       "id": "4200764",
@@ -2082,24 +2131,6 @@
       "description": "This PMS report presents findings from protection monitoring activities conducted through Key Informant Interviews (KIIs) and Focus Group Discussions (FGDs) in Aftit and Alemwach refugee settlements. The analysis draws on both qualitative and quantitative data to provide an overview of protection concerns across key thematic areas, including safety and security, access to services, documentation, "
     },
     {
-      "id": "4200679",
-      "title": "Angola and Namibia Strengthen Joint Response to Polio with Synchronized Border Campaign",
-      "agency": "World Health Organization",
-      "deadline": "",
-      "url": "https://reliefweb.int/node/4200679",
-      "source": "ReliefWeb",
-      "description": "The Government of Angola launched a subnational polio vaccination campaign in the municipality of Namacunde, Cunene Province, running from 24 to 27 February 2026, across 13 municipalities of 4 provinces bordering the Republic of Namibia. The initiative is carried out in synchronization with Namibia, aiming to interrupt poliovirus circulation and protect all children at risk.\n\nThe campaign targets "
-    },
-    {
-      "id": "4200595",
-      "title": "UNICEF Philippines Humanitarian Situation Report No. 7 (Multiple typhoons and earthquakes) (Reporting period: 30 January 2026 to 26 February)",
-      "agency": "UN Children's Fund",
-      "deadline": "",
-      "url": "https://reliefweb.int/node/4200595",
-      "source": "ReliefWeb",
-      "description": "Highlights\n\n- Through its partnership with the Department of Social Welfare and Development, UNICEF provided emergency cash assistance to 5,776 typhoon-affected families in Catanduanes, enabling households to prioritize food, education, health care and shelter repairs. Post-distribution monitoring confirmed that families received the correct amounts, were satisfied with the process, and that gover"
-    },
-    {
       "id": "4200587",
       "title": "Mali: Acute Malnutrition Snapshot | November 2025 - October 2026",
       "agency": "Integrated Food Security Phase Classification",
@@ -2107,6 +2138,15 @@
       "url": "https://reliefweb.int/node/4200587",
       "source": "ReliefWeb",
       "description": "## **MALI: Acute malnutrition remains high despite slight improvements, with significant deterioration expected from June to October 2026**\n\n**Key results**\n\nAcute malnutrition in Mali is expected to decline by 29 percent compared to last year, but levels remain high with 1.12 million children aged 6\u201359 months and 91,000 pregnant or breastfeeding women estimated to suffer from acute malnutrition b"
+    },
+    {
+      "id": "4200404",
+      "title": "Local voices, local data: how localization can strengthen malaria elimination across Africa",
+      "agency": "World Health Organization",
+      "deadline": "",
+      "url": "https://reliefweb.int/node/4200404",
+      "source": "ReliefWeb",
+      "description": "For a health facility in northern Togo, effective analysis and use of routine surveillance data can mean the difference between identifying a rise in malaria cases early or only recognizing it once wards are full and children present with severe disease. For malaria programmes across Africa, the ability of health workers to understand and act on data directly shapes who receives timely care.\n\nYet "
     },
     {
       "id": "4200381",
@@ -2161,6 +2201,15 @@
       "url": "https://reliefweb.int/node/4199938",
       "source": "ReliefWeb",
       "description": "The WHO in Burkina Faso 2024\u20132025 Biennial Report documents major public health achievements delivered in a context marked by security constraints, population displacement, and climate\u2011related pressures.\n\nA key milestone during the biennium was the scale-up of the malaria vaccine across all 70 health districts, representing a critical advance in malaria prevention and child health. The report also"
+    },
+    {
+      "id": "4199515",
+      "title": "Lost between borders: South Sudan\u2019s forgotten crises",
+      "agency": "M\u00e9decins Sans Fronti\u00e8res",
+      "deadline": "",
+      "url": "https://reliefweb.int/node/4199515",
+      "source": "ReliefWeb",
+      "description": "## In the world\u2019s youngest country, photographer Nicol\u00f2 Filippo Rosso finds \u201ca stark manifestation of layers upon layers of violence, tragedy, and conflict.\u201d\n\n### Barely a decade after gaining independence, the world\u2019s youngest nation, [South Sudan](https://www.doctorswithoutborders.org/what-we-do/where-we-work/south-sudan), continues to face overlapping crises: open conflict, violence, insecurity"
     },
     {
       "id": "4200403",
