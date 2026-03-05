@@ -1,14 +1,44 @@
 {
-  "last_updated": "2026-03-04T07:31:53Z",
-  "total": 247,
+  "last_updated": "2026-03-05T07:35:47Z",
+  "total": 251,
   "by_source": {
-    "Grants.gov": 159,
+    "Grants.gov": 164,
     "WHO": 9,
     "Gates Foundation (Grand Challenges)": 6,
     "Wellcome Trust": 13,
-    "ReliefWeb": 60
+    "ReliefWeb": 59
   },
   "opportunities": [
+    {
+      "id": "361408",
+      "title": "Urgent Competitive Revision to Existing NIH Grants and Cooperative Agreements (Urgent Supplement Clinical Trial Optional)",
+      "agency": "HHS-NIH11",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361408",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361412",
+      "title": "Feed the Future Innovation Labs",
+      "agency": "DOS-GFS",
+      "deadline": "04/09/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361412",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361410",
+      "title": "CONSORTIUM FOR NUCLEAR FORENSICS",
+      "agency": "DOE-NNSA",
+      "deadline": "06/10/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361410",
+      "source": "Grants.gov",
+      "description": ""
+    },
     {
       "id": "361396",
       "title": "FY 2026 English Access Scholarship Program",
@@ -110,12 +140,12 @@
       "description": ""
     },
     {
-      "id": "360889",
-      "title": "Drug-Free Communities (DFC) Support Program &ndash; COMPETING CONTINUATION (Year 6)",
-      "agency": "HHS-CDC-NCIPC",
-      "deadline": "04/14/2026",
+      "id": "361392",
+      "title": "Fiscal Year 2027 National Sea Grant College Program Dean John A. Knauss Marine Policy Fellowship",
+      "agency": "DOC-DOCNOAAERA",
+      "deadline": "07/22/2026",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/360889",
+      "url": "https://www.grants.gov/search-results-detail/361392",
       "source": "Grants.gov",
       "description": ""
     },
@@ -126,26 +156,6 @@
       "deadline": "03/20/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/361388",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "360888",
-      "title": "Drug-Free Communities (DFC) Support Program &ndash; NEW (Year 1)",
-      "agency": "HHS-CDC-NCIPC",
-      "deadline": "04/14/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/360888",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "361392",
-      "title": "Fiscal Year 2027 National Sea Grant College Program Dean John A. Knauss Marine Policy Fellowship",
-      "agency": "DOC-DOCNOAAERA",
-      "deadline": "07/22/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361392",
       "source": "Grants.gov",
       "description": ""
     },
@@ -250,12 +260,12 @@
       "description": ""
     },
     {
-      "id": "361338",
-      "title": "FY 2025 Region 4 Wetlands Program",
-      "agency": "EPA",
-      "deadline": "04/06/2026",
+      "id": "361407",
+      "title": "Ambassador's Fund for Cultural Preservation",
+      "agency": "DOS-GEO",
+      "deadline": "04/03/2026",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361338",
+      "url": "https://www.grants.gov/search-results-detail/361407",
       "source": "Grants.gov",
       "description": ""
     },
@@ -350,12 +360,12 @@
       "description": ""
     },
     {
-      "id": "361376",
-      "title": "Strategies to Link, Engage, and Retain Men with HIV in Care: Evaluation Provider",
-      "agency": "HHS-HRSA",
-      "deadline": "",
+      "id": "361338",
+      "title": "FY 2025 Region 4 Wetlands Program",
+      "agency": "EPA",
+      "deadline": "04/06/2026",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361376",
+      "url": "https://www.grants.gov/search-results-detail/361338",
       "source": "Grants.gov",
       "description": ""
     },
@@ -456,6 +466,16 @@
       "deadline": "09/18/2027",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/343653",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361376",
+      "title": "Strategies to Link, Engage, and Retain Men with HIV in Care: Evaluation Provider",
+      "agency": "HHS-HRSA",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361376",
       "source": "Grants.gov",
       "description": ""
     },
@@ -690,6 +710,16 @@
       "description": ""
     },
     {
+      "id": "361411",
+      "title": "Expanding the Therapeutic Pipeline for Treating and Preventing Alzheimer's Disease and Related Dementias: Preclinical Validation and Drug Discovery for Novel Candidate Targets (U01 Clinical Trial Not Allowed)",
+      "agency": "HHS-NIH11",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361411",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
       "id": "361370",
       "title": "Innovation Grants to Nurture Initial Translational Efforts (IGNITE): Therapeutic Agent Characterization and Preclinical Efficacy Studies",
       "agency": "HHS-NIH11",
@@ -706,16 +736,6 @@
       "deadline": "",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/361369",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "361339",
-      "title": "Feed the Future Innovation Labs",
-      "agency": "DOS-GFS",
-      "deadline": "04/03/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361339",
       "source": "Grants.gov",
       "description": ""
     },
@@ -886,6 +906,26 @@
       "deadline": "04/10/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/361240",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "359725",
+      "title": "The Metastasis Research Network (MetNet): MetNet Research Projects (U01 Clinical Trial Not Allowed)",
+      "agency": "HHS-NIH11",
+      "deadline": "11/22/2028",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/359725",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361216",
+      "title": "Specialized Alcohol Research Centers (P50 Clinical trial Optional)",
+      "agency": "HHS-NIH11",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361216",
       "source": "Grants.gov",
       "description": ""
     },
@@ -1430,6 +1470,16 @@
       "description": ""
     },
     {
+      "id": "360508",
+      "title": "ACL National Resource Center on Nutrition and Aging",
+      "agency": "HHS-ACL",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/360508",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
       "id": "361335",
       "title": "Region 1 Fiscal Year 2025 Wetland Program Development Grants",
       "agency": "EPA",
@@ -1852,6 +1902,78 @@
       "description": "Active Wellcome funding scheme: Mental Health Award Transforming Early Intervention. Visit the URL for eligibility and deadlines."
     },
     {
+      "id": "4201310",
+      "title": "Rangeland health and drought resilience: The promise of sustainable pastoralism in Eurasia (April 2026)",
+      "agency": "UN Convention to Combat Desertification",
+      "deadline": "",
+      "url": "https://reliefweb.int/node/4201310",
+      "source": "ReliefWeb",
+      "description": "Rangelands consist of vast natural and semi-natural grasslands, shrublands, woodlands, and deserts (also known as steppes, prairies, meadows, and savannahs), which are grazed by either livestock or wildlife or both. Healthy, productive, and resilient rangelands provide a wide range of goods and services that support pastoral livelihoods and grassland communities and provide huge benefits for the s"
+    },
+    {
+      "id": "4201300",
+      "title": "Statement of the Forty-fourth Meeting of the Polio IHR Emergency Committee (4 March 2026)",
+      "agency": "World Health Organization",
+      "deadline": "",
+      "url": "https://reliefweb.int/node/4201300",
+      "source": "ReliefWeb",
+      "description": "The 44th meeting of the Emergency Committee under the International Health Regulations (IHR or Regulations) on the international spread of poliovirus was convened by the WHO Director-General on 14 January 2026 with eight out of nine Committee members and the adviser meeting via video conference with affected countries, supported by the WHO Secretariat. The Emergency Committee reviewed the latest e"
+    },
+    {
+      "id": "4201295",
+      "title": "FAO Members in Latin America and Caribbean discuss priorities in fighting hunger and poverty",
+      "agency": "Food and Agriculture Organization of the United Nations",
+      "deadline": "",
+      "url": "https://reliefweb.int/node/4201295",
+      "source": "ReliefWeb",
+      "description": "Regional Conference kicks off as FAO Director-General emphasizes the need for enhanced coordination and support for farmers to bolster progress in food security\n\n**Brasilia \u2013** Ministers from around Latin America and the Caribbean region gathered in Brazil\u2019s capital Wednesday to decide on and outline priority actions for the Food and Agriculture Organization of the United Nations (FAO) and its reg"
+    },
+    {
+      "id": "4201277",
+      "title": "Uncovering flood-driven deprivation from space",
+      "agency": "Australian National University",
+      "deadline": "",
+      "url": "https://reliefweb.int/node/4201277",
+      "source": "ReliefWeb",
+      "description": "**Ishmam Rayan Haq**\n\nEvery year, millions of Bangladeshis [face devastating floods](https://www.unicef.org/bangladesh/en/stories/climate-displacement-loss-and-uncertain-futures) that threaten livelihoods, food security and long-term development. While local adaptation efforts are important, large-scale mitigation through regional cooperation and upstream water management is also critical for redu"
+    },
+    {
+      "id": "4201274",
+      "title": "UNICEF Central African Republic Humanitarian Situation Report No. 2 (End of Year), 31 December 2025",
+      "agency": "UN Children's Fund",
+      "deadline": "",
+      "url": "https://reliefweb.int/node/4201274",
+      "source": "ReliefWeb",
+      "description": "**Highlights**\n\n- UNICEF supported 1,100,000 children through three nationwide polio immunization campaigns, achieving a 100% coverage rate. A total of 6428 individuals at risk of Mpox were vaccinated, and medical kits were provided to districts reporting measles outbreaks.\n- 563,591 children (6 to 59 months) were screened for malnutrition. UNICEF financed the nutrition supply chain across all 35 "
+    },
+    {
+      "id": "4201265",
+      "title": "Cameroon - Child Protection AoR: North West & South West Regions 5Ws Monthly Reach and Operational Presence: Operational Maps, January 2026",
+      "agency": "Child Protection Area of Responsibility",
+      "deadline": "",
+      "url": "https://reliefweb.int/node/4201265",
+      "source": "ReliefWeb",
+      "description": "In January 2026, 17 AoR partners implemented child protection activities in 11 out of 13 Divisions and covered 27 Subdivisions of the NWSW regions. These partners include UNICEF, Green Partners Association, ASWEDO, TeenAlive, BIHAPH, CBCHS, Cornerstone Enrichment Services, Caritas Bamenda, Caritas Kumba, Foundation for Inclusive Education, Global Community Rescue, GLOCIR, and PAIDWA. From the 13 p"
+    },
+    {
+      "id": "4201264",
+      "title": "Cameroon - Child Protection AoR: North West & South West Regions 5Ws Monthly Reach and Operational Presence: Operational Maps (January to December 2025)",
+      "agency": "Child Protection Area of Responsibility",
+      "deadline": "",
+      "url": "https://reliefweb.int/node/4201264",
+      "source": "ReliefWeb",
+      "description": "From January to December 2025, 62 AoR partners implemented child protection activities in 13 Divisions and covered 55 Subdivisions (29 in the NWS and 26 in the SW). These partners include UNICEF, PAID-WA,DRC, NRC, AMEF, ASWEDO, AWA, BETA, BIHAPH, CAFEDO, CAMHELP, CARITAS Buea, CASAF, CBCHS, CES, Caritas Bamenda, GHCO, Caritas Kumba, REACH BACK, Caritas Kumbo, FIED, Caritas Mamfe, FGI, GCR, GLOCIR,"
+    },
+    {
+      "id": "4201248",
+      "title": "Lebanon: IRC warns of mounting humanitarian needs for tens of thousands fleeing escalating violence",
+      "agency": "International Rescue Committee",
+      "deadline": "",
+      "url": "https://reliefweb.int/node/4201248",
+      "source": "ReliefWeb",
+      "description": "**Beirut, Lebanon, March 4, 2026** \u2014 In the wake of military escalations across much of the Middle East, hostilities between Hezbollah and Israel escalated dramatically on March 1st, forcing tens of thousands of people in Lebanon to flee their homes. This outbreak of violence marks the most serious deterioration in security conditions since the November 2024 ceasefire agreement, exacerbating an al"
+    },
+    {
       "id": "4201052",
       "title": "Escalation in the Middle East \u2013 humanitarian implications: Statement by Tom Fletcher, USG for Humanitarian Affairs and Emergency Relief Coordinator",
       "agency": "UN Office for the Coordination of Humanitarian Affairs",
@@ -1870,148 +1992,67 @@
       "description": "**LONDON/GENEVA, 3 March 2026 \u2013** As hostilities escalate in the Middle East and the wider region, children may see and hear about the conflict in the news or in real life, leading to feelings of anxiety and fear, and needing parents\u2019 and caregivers\u2019 support.\n\n**Save the Children\u2019s Global Head of Child Protection, Rebecca Smith**, said children may have questions about the images, stories, and con"
     },
     {
-      "id": "4200923",
-      "title": "The Case For Action on Global homelessness - Why homelessness can no longer be ignored in climate, health and education agendas",
-      "agency": "Depaul International",
+      "id": "4201289",
+      "title": "North Macedonia Floods 2026 - DREF Operation Update (MDRMK011)",
+      "agency": "International Federation of Red Cross and Red Crescent Societies",
       "deadline": "",
-      "url": "https://reliefweb.int/node/4200923",
+      "url": "https://reliefweb.int/node/4201289",
       "source": "ReliefWeb",
-      "description": "**EXECUTIVE SUMMARY**\n\nHomelessness is a global problem which has a catastrophic impact on individuals, families and communities. Global estimates of the scale of homelessness vary widely due to the challenges that we describe in this report, but if the global population of people estimated to be living on the streets or in temporary shelter were counted as a single country, they would number in t"
+      "description": "**Description of the Event**\n\n**Date of event**\n\n29-01-2026\n\n**What happened, where and when?**\n\nDuring the period of early to mid\u2010January 2026, North Macedonia was affected by a persistent cyclonic system that generated widespread and intensive precipitation. According to the National Hydrometeorological Service (UHMK), the system produced \u201cmore abundant rainfall in the central and eastern parts "
     },
     {
-      "id": "4200874",
-      "title": "ENSO neutral conditions expected as La Ni\u00f1a fades, but El Ni\u00f1o chances rise",
-      "agency": "World Meteorological Organization",
+      "id": "4201275",
+      "title": "Lebanon Crisis: Regional Conflict - Flash Update (March 3, 2026)",
+      "agency": "United Nations Population Fund",
       "deadline": "",
-      "url": "https://reliefweb.int/node/4200874",
+      "url": "https://reliefweb.int/node/4201275",
       "source": "ReliefWeb",
-      "description": "[ ](https://wmo.int/)\n\n[ ](https://wmo.int/)\n\nGeneva (WMO) \u2013 The recent weak La Ni\u00f1a event is expected to fade into ENSO-neutral conditions which may swing to a warming El Ni\u00f1o episode later this year, according to the latest Update from the World Meteorological Organization (WMO).\n\n- Weak La Ni\u00f1a is fading\n- Neutral conditions (neither El Ni\u00f1o nor La Ni\u00f1a) are expected until July\n- Model forecast"
+      "description": "On March 2, 2026, Israel launched intensive airstrikes across Beirut\u2019s southern suburbs, South Lebanon, and the Bekaa valley, following Hezbollah\u2019s response to the killing of the Iranian Supreme Leader Ayatollah Khamenei. This latest escalation has killed at least 40 people and injured 246 as of 3 March.\n\nIsraeli forced evacuation orders on 3 March 2026 for over 50 villages have triggered a massiv"
     },
     {
-      "id": "4200812",
-      "title": "UNICEF Afghanistan Humanitarian Situation Report No. 1, January 2026",
+      "id": "4201268",
+      "title": "Somalia: Public Health Situation Analysis (PHSA) (04 March 2026)",
+      "agency": "Health Cluster",
+      "deadline": "",
+      "url": "https://reliefweb.int/node/4201268",
+      "source": "ReliefWeb",
+      "description": "**Summary of Crisis and Key Findings**\n\nIn 2025, needs were driven by the complex interaction of climate shocks, prolonged conflict and insecurity, large-scale displacement, chronic fragility, and public health threats. Severe funding reductions reshaped the humanitarian response. By mid-year, humanitarian partners were forced to revise the Humanitarian Needs and Response Plan (HNRP) targets from "
+    },
+    {
+      "id": "4201202",
+      "title": "Children are bearing the brunt of the escalating violence in Lebanon",
       "agency": "UN Children's Fund",
       "deadline": "",
-      "url": "https://reliefweb.int/node/4200812",
+      "url": "https://reliefweb.int/node/4201202",
       "source": "ReliefWeb",
-      "description": "**Highlights**\n\n- In 2026, approximately 21.9 million people - close to half of the population - require humanitarian assistance, including over 11.6 million children.\n- In January 2026, 46,795 children were admitted for inpatient and outpatient treatment. To prevent malnutrition, 185,234 caregivers of young children received counselling on maternal, infant and young child nutrition (MIYCN), while"
+      "description": "**BEIRUT, 4 March 2026 \u2013** Seven children have been killed and 38 injured in the past 24 hours amid escalating hostilities across Lebanon, according to the Ministry of Public Health (MoPH).\n\nThis high number of child casualties comes as renewed airstrikes hit multiple areas across the country, triggering massive displacement and deepening an already fragile humanitarian situation.\n\nIn the last 24 "
     },
     {
-      "id": "4200735",
-      "title": "IRC programs disrupted in Lebanon as escalating hostilities across the Middle East put staff and clients at risk",
-      "agency": "International Rescue Committee",
+      "id": "4201118",
+      "title": "Armenia: Facts and figures (January-December 2025)",
+      "agency": "International Committee of the Red Cross",
       "deadline": "",
-      "url": "https://reliefweb.int/node/4200735",
+      "url": "https://reliefweb.int/node/4201118",
       "source": "ReliefWeb",
-      "description": "**Amman, Jordan, March 2, 2026 \u2014** The International Rescue Committee (IRC) is deeply concerned by the escalating hostilities across the Middle East and the growing humanitarian consequences for civilians and vital civilian infrastructure.\n\nAt a time when millions across the Middle East region are already grappling with the effects of conflict, displacement, climate shocks and economic hardship, t"
+      "description": "Through our delegation in Yerevan and sub-delegation in Goris, we continued to support those affected by the conflict escalations in 2020-2023. We sustained our efforts in facilitating resilience-building programs, supporting access to emergency healthcare, in communities situated along the border between Armenia and Azerbaijan.\n\nWe continued to provide direct support to the families of those miss"
     },
     {
-      "id": "4200678",
-      "title": "Lesotho receives first batch of Lenacapavir",
-      "agency": "World Health Organization",
+      "id": "4201276",
+      "title": "UNFPA Cameroon Situation Report: Politics, Conflict, Climate Disaster, and Displacement (1 - 31 January 2026)",
+      "agency": "United Nations Population Fund",
       "deadline": "",
-      "url": "https://reliefweb.int/node/4200678",
+      "url": "https://reliefweb.int/node/4201276",
       "source": "ReliefWeb",
-      "description": "Lesotho has officially received its first shipment of Lenacapavir, a groundbreaking HIV prevention drug that marks a historic milestone in the country\u2019s ongoing fight against HIV/AIDS. The handover took place in Mafeteng district during a high-level ceremony presided over by the Deputy Prime Minister, Nthomeng Majara, and attended by senior government officials, including the Honourable Minister o"
+      "description": "As of January 2026, the humanitarian situation in Cameroon\u2019s Far North, North-West, and South-West regions remains dire. The targeted destruction and looting of the Darak Medical Health Centre on 20 January by non-state armed groups (NSAGs) has paralysed local healthcare, disrupting essential sexual and reproductive health and gender-based violence (GBV) and creating a protection crisis for women "
     },
     {
-      "id": "4200677",
-      "title": "Angola accelerates final steps to eradicate Guinea worm by 2030",
-      "agency": "World Health Organization",
+      "id": "4201267",
+      "title": "Afghanistan: Public Health Situation Analysis (PHSA) (04 March 2026)",
+      "agency": "Health Cluster",
       "deadline": "",
-      "url": "https://reliefweb.int/node/4200677",
+      "url": "https://reliefweb.int/node/4201267",
       "source": "ReliefWeb",
-      "description": "After five consecutive years without human cases and with significant progress in strengthening epidemiological surveillance, community mobilisation and response to animal infections, the country is entering a decisive phase towards the global goal of eradicating the disease by 2030. These advances represent an important milestone in controlling the disease.\n\nHowever, for the country to be officia"
-    },
-    {
-      "id": "4200594",
-      "title": "Global AIDS Monitoring 2026 \u2014 Indicators and questions to monitor progress towards the Global AIDS Strategy 2026-2031 targets",
-      "agency": "UNAIDS",
-      "deadline": "",
-      "url": "https://reliefweb.int/node/4200594",
-      "source": "ReliefWeb",
-      "description": "**Background**\n\nIn 2015, United Nations Member States adopted the 2030 Agenda for Sustainable Development, committing to ending AIDS as a public health threat by 2030. This commitment was reaffirmed in the political declarations on HIV and AIDS adopted at the United Nations General Assembly High-Level Meetings on AIDS in June 2016 and June 2021. There have been remarkable successes in the HIV resp"
-    },
-    {
-      "id": "4200584",
-      "title": "Gaza Humanitarian Response | Situation Report No. 69",
-      "agency": "UN Office for the Coordination of Humanitarian Affairs",
-      "deadline": "",
-      "url": "https://reliefweb.int/node/4200584",
-      "source": "ReliefWeb",
-      "description": "**As of 18:00 on 25 February 2026, unless otherwise noted**\n\n*This report, issued every Friday, outlines efforts and progress made by the UN and its partners to scale up the humanitarian response across the Gaza Strip following the ceasefire that entered into effect on 10 October 2025. The next report will be issued on 6 March. For all situation reports* [*see here*](https://www.ochaopt.org/public"
-    },
-    {
-      "id": "4200955",
-      "title": "Epidemic and emerging disease alerts in the Pacific as of 03 March 2026",
-      "agency": "Pacific Community",
-      "deadline": "",
-      "url": "https://reliefweb.int/node/4200955",
-      "source": "ReliefWeb",
-      "description": "**Highlights/updates since the last map was sent on PacNet on 24 February 2026:**\n\n**Dengue**\n\n- **New Caledonia:** As of 26 February 2026, 117 dengue cases have been reported in New Caledonia since the 01 January 2026, including 104 confirmed and nine probable locally acquired cases, alongside three imported cases and one clinical case. DENV\u20111 remains the predominant serotype among locally acquir"
-    },
-    {
-      "id": "4200921",
-      "title": "UNHCR Romania: Ukraine Refugee Situation Update, Weekly Update #185, 2 March 2026",
-      "agency": "UN High Commissioner for Refugees",
-      "deadline": "",
-      "url": "https://reliefweb.int/node/4200921",
-      "source": "ReliefWeb",
-      "description": "**Highlights**\n\nOn 24 February, the Inter-Agency Coordination Platform in Romania in collaboration with the Department for Emergency Situations (DSU), marked four years of the refugee response at UNHCR\u2019s Community Centre for refugees at RomExpo in Bucharest. The event brought together over 100 participants, including senior state and government officials, the Diplomatic Corps and Refugee Response "
-    },
-    {
-      "id": "4200868",
-      "title": "Free Healthcare Services to Reduce the Spread of Cholera",
-      "agency": "Building Foundation for Development",
-      "deadline": "",
-      "url": "https://reliefweb.int/node/4200868",
-      "source": "ReliefWeb",
-      "description": "Cholera is a bacterial disease spread through contaminated water or food, leading to severe diarrhea and rapid dehydration. It is a fast-moving epidemic that can be life-threatening if not treated promptly.\n\nOne day, Sua'ad was suddenly struck by repeated episodes of watery diarrhea in large amounts, accompanied by extreme fatigue and nausea. Sua'ad Mohammed, a 50-year-old woman, lives with her fa"
-    },
-    {
-      "id": "4200814",
-      "title": "ASEAN Weekly Disaster Update Week 9 | 23 February \u2013 1 March 2026",
-      "agency": "ASEAN Coordinating Centre for Humanitarian Assistance",
-      "deadline": "",
-      "url": "https://reliefweb.int/node/4200814",
-      "source": "ReliefWeb",
-      "description": "**REGIONAL SUMMARY:**\n\nDuring the ninth week of 2026, a total of 16 disaster events were reported across the Association of Southeast Asian Nations region, including floods, storms, and strong wind-related disasters in Indonesia, Thailand, and Timor-leste. In Indonesia, *Badan Nasional Penanggulangan* *Bencana* ([BNPB](https://bnpb.go.id/)) reported incidents across East Java, South Kalimantan, Ea"
-    },
-    {
-      "id": "4200807",
-      "title": "UNICEF Lebanon Humanitarian Flash Update No.1 (Escalation of Hostilities), 2 March 2026",
-      "agency": "UN Children's Fund",
-      "deadline": "",
-      "url": "https://reliefweb.int/node/4200807",
-      "source": "ReliefWeb",
-      "description": "**SITUATION UPDATE AND HUMANITARIAN NEEDS**\n\n\u2022 Hostilities in Lebanon escalated, with intense airstrikes across multiple areas north and south of the Litani river (South, Nabatieh, Beirut, Bekaa, Baalbek-El Hermel, Mount Lebanon, and Akkar) on the 2 nd of March 2026. Israel issued displacement warnings for 53 villages in the South, Nabatieh and West Bekaa.\n\n\u2022 Lebanese Ministry of Public Health (Mo"
-    },
-    {
-      "id": "4200803",
-      "title": "UNICEF East Asia and Pacific Region Humanitarian Situation Report No. 2 (End of Year), 31 December 2025",
-      "agency": "UN Children's Fund",
-      "deadline": "",
-      "url": "https://reliefweb.int/node/4200803",
-      "source": "ReliefWeb",
-      "description": "**Highlights**\n\n- Humanitarian context: East Asia and the Pacific remained the world\u2019s most disaster-prone region in 2025, with climate shocks, disease outbreaks and conflict affecting tens of millions of people. Floods, typhoons, earthquakes, drought and violence drove large-scale displacement, with 5.2 million people internally displaced at the start of the year2 and children facing the highest "
-    },
-    {
-      "id": "4200792",
-      "title": "DiCarlo highlights role of technology in safeguarding education for children in conflict",
-      "agency": "UN Department of Political and Peacebuilding Affairs",
-      "deadline": "",
-      "url": "https://reliefweb.int/node/4200792",
-      "source": "ReliefWeb",
-      "description": "## **Under-Secretary-General Rosemary A. DiCarlo's**\n\n## **Remarks to the Security Council on Children, Technology, Education and Conflict**\n\n## **New York, 2 March 2026**\n\nMadam President,\n\nOn behalf of the Secretary-General, I want to thank you for your leadership in organizing today\u2019s discussion.\n\nThis debate comes at a moment of exceptional relevance. Today, we face the highest number of armed"
-    },
-    {
-      "id": "4200716",
-      "title": "From Evidence to Action: Good Practices Strengthening Home\u2011Grown School Feeding Across Africa",
-      "agency": "Regional Centre of Excellence against Hunger and Malnutrition",
-      "deadline": "",
-      "url": "https://reliefweb.int/node/4200716",
-      "source": "ReliefWeb",
-      "description": "**From Evidence to Action: Good Practices Strengthening Home\u2011Grown School Feeding Across Africa**\n\nEvery year on March 1st, Africa reaffirms a simple but powerful conviction: **no child should have to learn on an empty stomach**. The African Day of School Feeding (ADSF) serves as a continent\u2011wide reminder that a school meal is far more than food: it is a driver of learning, equity, resilience, and"
+      "description": "**Summary of Crisis and Key Findings**\n\nAfghanistan faces a harsh winter at a moment of heightened vulnerability and escalating humanitarian need. After multiple years of compounding shocks, families have exhausted nearly every option they once relied on to survive.\n\nAfghanistan is seeing an escalation of insecurity on its borders\u2014 increased fighting on the eastern and southern frontier with Pakis"
     },
     {
       "id": "4201042",
@@ -2030,6 +2071,15 @@
       "url": "https://reliefweb.int/node/4200867",
       "source": "ReliefWeb",
       "description": "In Al-Hodeidah Governorate \u2013 Jabal Ras District \u2013 Al-Ashaer area, Na\u2019ayim Saeed lives with her family of seven in extreme poverty. The family\u2019s situation is dire, as her husband, a daily wage laborer, struggles to provide his family with their basic needs, particularly medical care.\n\nOne day, Na\u2019ayim began feeling labor pains that started as mild cramps but grew stronger as time passed. By the fol"
+    },
+    {
+      "id": "4200812",
+      "title": "UNICEF Afghanistan Humanitarian Situation Report No. 1, January 2026",
+      "agency": "UN Children's Fund",
+      "deadline": "",
+      "url": "https://reliefweb.int/node/4200812",
+      "source": "ReliefWeb",
+      "description": "**Highlights**\n\n- In 2026, approximately 21.9 million people - close to half of the population - require humanitarian assistance, including over 11.6 million children.\n- In January 2026, 46,795 children were admitted for inpatient and outpatient treatment. To prevent malnutrition, 185,234 caregivers of young children received counselling on maternal, infant and young child nutrition (MIYCN), while"
     },
     {
       "id": "4200389",
@@ -2068,67 +2118,31 @@
       "description": "GENEVA - Four years after Russia launched its full-scale invasion of Ukraine, health care remains under sustained attack. Since 24 February 2022, a total of 2,591 attacks on Ukraine's health care system have been documented by Insecurity Insight in partnership with Physicians for Human Rights (PHR), eyeWitness to Atrocities, Media Initiative for Human Rights, Truth Hounds, and the Ukrainian Health"
     },
     {
-      "id": "4199977",
-      "title": "Health Cluster Sudan Bulletin (Sep - Dec 2025)",
-      "agency": "Health Cluster",
+      "id": "4201297",
+      "title": "Statement by Under-Secretary-General Vanessa Frazier, Special Representative of the Secretary-General for Children and Armed Conflict - South Sudan (4 March 2026)",
+      "agency": "UN Office of the SRSG for Children and Armed Conflict",
       "deadline": "",
-      "url": "https://reliefweb.int/node/4199977",
+      "url": "https://reliefweb.int/node/4201297",
       "source": "ReliefWeb",
-      "description": "9.4M People Affected\n\n2.3M People Reached\n\n262.3 M Funding Required\n\n138.7 M (52.9%) Funding Received\n\n**HIGHLIGHTS**\n\n**Key Achievements**\n\nFrom September to December 2025, the Sudan Health Cluster provided support to 1,421 health facilities and 62 mobile clinics through the contributions of 41 active partners. During this period, health services included 5,414,360 outpatient consultations, benef"
+      "description": "**South Sudan: Alarming Surge in Grave Violations against Children amid Escalating Conflict**\n\nSouth Sudan\u2019s children are facing an alarming surge in grave violations amid escalating conflict and deteriorating security conditions. As hostilities intensify across the country, children are paying the highest price.\n\nA dramatic deterioration in the protection of children was recorded in 2025, with th"
     },
     {
-      "id": "4199931",
-      "title": "At the Borders of War : The Silent Epidemic of Psychological Trauma",
-      "agency": "Action Against Hunger",
-      "deadline": "",
-      "url": "https://reliefweb.int/node/4199931",
-      "source": "ReliefWeb",
-      "description": "**In the regions of Kharkiv and Sumy, close to the front line, repeated shelling, the collapse of infrastructure, and the lack of specialized services leave thousands of people isolated, without access to healthcare, and in a deep state of emotional distress.**\n\nUkraine is facing an exceptionally harsh winter, while strikes targeting its energy infrastructure have intensified since November 2025. "
-    },
-    {
-      "id": "4199750",
-      "title": "\u201cI arrived with nothing but my life\u201d: Women in South Sudan describe harrowing escape from violence",
-      "agency": "United Nations Population Fund",
-      "deadline": "",
-      "url": "https://reliefweb.int/node/4199750",
-      "source": "ReliefWeb",
-      "description": "**JONGLEI STATE, South Sudan** \u2013 \u201cI left at night, crawling to avoid the crossfire,\u201d said Rachiel, a mother of seven from Baidit, in South Sudan\u2019s Jonglei State. \u201cIt took me two days to reach safety \u2013 I arrived with nothing but my life.\u201d\n\nAfter fleeing an [upsurge in violence](https://www.unfpa.org/press/unfpa-statement-escalating-crisis-women-and-girls-south-sudan) that has broken out in recent m"
-    },
-    {
-      "id": "4200953",
-      "title": "Rapid Gender Analysis Report, Darfur Program Area (October 2025)",
-      "agency": "Plan International",
-      "deadline": "",
-      "url": "https://reliefweb.int/node/4200953",
-      "source": "ReliefWeb",
-      "description": "**Fear of rape and violence traps Sudan\u2019s girls inside camps, as conflict nears its fourth year**\n\nWith an increasing number of rape and violence cases, girls report feeling safe only within the narrow confines of their homes or camps during the day. This limits their lives to just a few metres, essentially cutting them off from their previous lives.\n\nA new Rapid Gender Analysis by Plan Internatio"
-    },
-    {
-      "id": "4200891",
-      "title": "'Mothers in survival mode': Standing together against Food Insecurity in Cameroon",
+      "id": "4201286",
+      "title": "Mongolia: Snow Storm - DREF Operation (MDRMN021)",
       "agency": "International Federation of Red Cross and Red Crescent Societies",
       "deadline": "",
-      "url": "https://reliefweb.int/node/4200891",
+      "url": "https://reliefweb.int/node/4201286",
       "source": "ReliefWeb",
-      "description": "**IFRC is launching an Emergency appeal**\n\nAs food insecurity deepens across climate- and conflict-affected regions, the IFRC, in support of the Cameroon Red Cross, is launching a[ 9.6 million CHF Emergency Appeal to scale up urgent and life-saving assistance.](https://www.ifrc.org/emergency/cameroon-food-insecurity-2026)\n\nThe response is grounded in direct evidence from affected communities and r"
+      "description": "**Description of the Event**\n\n**Date of event**\n\n24-02-2026\n\n**What happened, where and when?**\n\nThe snowstorm event started since 21 February 2026 across multiple provinces in Mongolia, particularly affecting eastern, northern, southern, and western regions, including Bayanhongor, Darkhan-Uul, Orkhon, Dornod, Dornogovi, Dundgovi, Govi-Altai, Khentii, Khuvsgul, Selenge, Sukhbaatar, Umnugovi, Tuv, "
     },
     {
-      "id": "4200764",
-      "title": "Sudan: Lifeline for thousands of children as first vaccine shipment in nearly three years arrives in South Kordofan",
-      "agency": "Save the Children",
+      "id": "4201256",
+      "title": "Child marriages surge in Gaza as war tightens grip on girls\u2019 futures",
+      "agency": "United Nations Population Fund",
       "deadline": "",
-      "url": "https://reliefweb.int/node/4200764",
+      "url": "https://reliefweb.int/node/4201256",
       "source": "ReliefWeb",
-      "description": "**The first shipment of vaccines to South Kordofan state in nearly three years will restore lifesaving immunisation services to children and communities cut off from essential supplies due to conflict and siege.**\n\n**PORT SUDAN, 2 March 2026 \u2013** The first shipment of vaccines to South Kordofan state in nearly three years will restore lifesaving immunisation services to children and communities cut"
-    },
-    {
-      "id": "4200727",
-      "title": "UNHCR Ethiopia | PMS Report: Amhara Region, Aftit & Alemwach Settlement | 2025",
-      "agency": "UN High Commissioner for Refugees",
-      "deadline": "",
-      "url": "https://reliefweb.int/node/4200727",
-      "source": "ReliefWeb",
-      "description": "This PMS report presents findings from protection monitoring activities conducted through Key Informant Interviews (KIIs) and Focus Group Discussions (FGDs) in Aftit and Alemwach refugee settlements. The analysis draws on both qualitative and quantitative data to provide an overview of protection concerns across key thematic areas, including safety and security, access to services, documentation, "
+      "description": "**GAZA, The Occupied Palestinian Territory \u2013** \u201cWhen my aunt asked for my hand in marriage for her son, my father agreed immediately,\u201d said Amal\\*, from Khan Younis in southern Gaza. But the ceremony wasn\u2019t a happy one \u2013 at least not for her. \u201cThere was no wedding, no dress, no celebration,\u201d she said. \u201cIt felt like a deal to get rid of a burden.\u201d\n\nReports of child marriages are rising across Gaza "
     },
     {
       "id": "4200587",
@@ -2203,13 +2217,13 @@
       "description": "The WHO in Burkina Faso 2024\u20132025 Biennial Report documents major public health achievements delivered in a context marked by security constraints, population displacement, and climate\u2011related pressures.\n\nA key milestone during the biennium was the scale-up of the malaria vaccine across all 70 health districts, representing a critical advance in malaria prevention and child health. The report also"
     },
     {
-      "id": "4199515",
-      "title": "Lost between borders: South Sudan\u2019s forgotten crises",
-      "agency": "M\u00e9decins Sans Fronti\u00e8res",
+      "id": "4200764",
+      "title": "Sudan: Lifeline for thousands of children as first vaccine shipment in nearly three years arrives in South Kordofan",
+      "agency": "Save the Children",
       "deadline": "",
-      "url": "https://reliefweb.int/node/4199515",
+      "url": "https://reliefweb.int/node/4200764",
       "source": "ReliefWeb",
-      "description": "## In the world\u2019s youngest country, photographer Nicol\u00f2 Filippo Rosso finds \u201ca stark manifestation of layers upon layers of violence, tragedy, and conflict.\u201d\n\n### Barely a decade after gaining independence, the world\u2019s youngest nation, [South Sudan](https://www.doctorswithoutborders.org/what-we-do/where-we-work/south-sudan), continues to face overlapping crises: open conflict, violence, insecurity"
+      "description": "**The first shipment of vaccines to South Kordofan state in nearly three years will restore lifesaving immunisation services to children and communities cut off from essential supplies due to conflict and siege.**\n\n**PORT SUDAN, 2 March 2026 \u2013** The first shipment of vaccines to South Kordofan state in nearly three years will restore lifesaving immunisation services to children and communities cut"
     },
     {
       "id": "4200403",
@@ -2248,6 +2262,15 @@
       "description": "## Four years after Russian forces invaded Ukraine, civilians continue to bear the burden of the war\u2019s devastation.\n\n### On February 24, 2022, Russia launched a full-scale invasion of [Ukraine](https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine), dramatically escalating a conflict that started in the country\u2019s east in 2014. In the four years since, nearly 10 million people have"
     },
     {
+      "id": "4199515",
+      "title": "Lost between borders: South Sudan\u2019s forgotten crises",
+      "agency": "M\u00e9decins Sans Fronti\u00e8res",
+      "deadline": "",
+      "url": "https://reliefweb.int/node/4199515",
+      "source": "ReliefWeb",
+      "description": "## In the world\u2019s youngest country, photographer Nicol\u00f2 Filippo Rosso finds \u201ca stark manifestation of layers upon layers of violence, tragedy, and conflict.\u201d\n\n### Barely a decade after gaining independence, the world\u2019s youngest nation, [South Sudan](https://www.doctorswithoutborders.org/what-we-do/where-we-work/south-sudan), continues to face overlapping crises: open conflict, violence, insecurity"
+    },
+    {
       "id": "4199219",
       "title": "WFP Malawi Country Brief November 2025",
       "agency": "World Food Programme",
@@ -2264,6 +2287,33 @@
       "url": "https://reliefweb.int/node/4199145",
       "source": "ReliefWeb",
       "description": "## Attacks are devastating frontline communities and increasing humanitarian needs among displaced people, from shelter to medical care.\n\n### Two-month old Damir has only been bathed twice in his life: once in the hospital, and once on a rare day when electricity briefly returned.  \n\n\n\u201cWe use wipes now because it\u2019s very cold,\u201d says Damir\u2019s mother, Kateryna Murashkina. \u201cThe room doesn\u2019t warm up in "
+    },
+    {
+      "id": "4200803",
+      "title": "UNICEF East Asia and Pacific Region Humanitarian Situation Report No. 2 (End of Year), 31 December 2025",
+      "agency": "UN Children's Fund",
+      "deadline": "",
+      "url": "https://reliefweb.int/node/4200803",
+      "source": "ReliefWeb",
+      "description": "**Highlights**\n\n- Humanitarian context: East Asia and the Pacific remained the world\u2019s most disaster-prone region in 2025, with climate shocks, disease outbreaks and conflict affecting tens of millions of people. Floods, typhoons, earthquakes, drought and violence drove large-scale displacement, with 5.2 million people internally displaced at the start of the year2 and children facing the highest "
+    },
+    {
+      "id": "4200678",
+      "title": "Lesotho receives first batch of Lenacapavir",
+      "agency": "World Health Organization",
+      "deadline": "",
+      "url": "https://reliefweb.int/node/4200678",
+      "source": "ReliefWeb",
+      "description": "Lesotho has officially received its first shipment of Lenacapavir, a groundbreaking HIV prevention drug that marks a historic milestone in the country\u2019s ongoing fight against HIV/AIDS. The handover took place in Mafeteng district during a high-level ceremony presided over by the Deputy Prime Minister, Nthomeng Majara, and attended by senior government officials, including the Honourable Minister o"
+    },
+    {
+      "id": "4200594",
+      "title": "Global AIDS Monitoring 2026 \u2014 Indicators and questions to monitor progress towards the Global AIDS Strategy 2026-2031 targets",
+      "agency": "UNAIDS",
+      "deadline": "",
+      "url": "https://reliefweb.int/node/4200594",
+      "source": "ReliefWeb",
+      "description": "**Background**\n\nIn 2015, United Nations Member States adopted the 2030 Agenda for Sustainable Development, committing to ending AIDS as a public health threat by 2030. This commitment was reaffirmed in the political declarations on HIV and AIDS adopted at the United Nations General Assembly High-Level Meetings on AIDS in June 2016 and June 2021. There have been remarkable successes in the HIV resp"
     },
     {
       "id": "4200192",
@@ -2291,15 +2341,6 @@
       "url": "https://reliefweb.int/node/4199709",
       "source": "ReliefWeb",
       "description": "Operational Updates\n\nWFP continues to strengthen protection, gender and age sensitive disaster governance by supporting the celebration of the first annual meeting of the Consultative Team on Protection, Gender and Age (EC PGE), a national inter institutional mechanism formally attached to the National Emergency Commission. In this working session, members advanced institutional safeguards by fina"
-    },
-    {
-      "id": "4199465",
-      "title": "Supporting women in Ukraine: Five ways UN Women delivers critical aid and services",
-      "agency": "UN Women",
-      "deadline": "",
-      "url": "https://reliefweb.int/node/4199465",
-      "source": "ReliefWeb",
-      "description": "## Funding crisis threatens critical support that women need\n\nToday, Ukrainian women face a new emergency: Dramatic cuts in international donor funding are compromising their ability to continue this vital work. Women\u2019s organizations in [Ukraine lost an estimated USD 27.4 million in foreign assistance in 2025](https://www.unwomen.org/en/digital-library/publications/2026/02/the-impact-of-foreign-as"
     },
     {
       "id": "4196673",
