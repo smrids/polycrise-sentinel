@@ -1,21 +1,71 @@
 {
-  "last_updated": "2026-03-05T07:35:47Z",
-  "total": 251,
+  "last_updated": "2026-03-06T07:32:49Z",
+  "total": 250,
   "by_source": {
-    "Grants.gov": 164,
+    "Grants.gov": 158,
     "WHO": 9,
     "Gates Foundation (Grand Challenges)": 6,
     "Wellcome Trust": 13,
-    "ReliefWeb": 59
+    "ReliefWeb": 64
   },
   "opportunities": [
     {
-      "id": "361408",
-      "title": "Urgent Competitive Revision to Existing NIH Grants and Cooperative Agreements (Urgent Supplement Clinical Trial Optional)",
-      "agency": "HHS-NIH11",
+      "id": "361413",
+      "title": "Community Reentry Settings Initiative",
+      "agency": "USDOJ-BOP-NIC",
+      "deadline": "05/04/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361413",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361414",
+      "title": "Small-Scale Water Efficiency Projects",
+      "agency": "DOI-BOR",
+      "deadline": "06/02/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361414",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361415",
+      "title": "WaterSMART Drought Response Program",
+      "agency": "DOI-BOR",
       "deadline": "",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361408",
+      "url": "https://www.grants.gov/search-results-detail/361415",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361416",
+      "title": "Advancing Global Health",
+      "agency": "DOS-GHSD",
+      "deadline": "02/14/2027",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361416",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361417",
+      "title": "WaterSMART: Applied Science Grants",
+      "agency": "DOI-BOR",
+      "deadline": "07/08/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361417",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361410",
+      "title": "CONSORTIUM FOR NUCLEAR FORENSICS",
+      "agency": "DOE-NNSA",
+      "deadline": "06/10/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361410",
       "source": "Grants.gov",
       "description": ""
     },
@@ -30,12 +80,12 @@
       "description": ""
     },
     {
-      "id": "361410",
-      "title": "CONSORTIUM FOR NUCLEAR FORENSICS",
-      "agency": "DOE-NNSA",
-      "deadline": "06/10/2026",
+      "id": "361408",
+      "title": "Urgent Competitive Revision to Existing NIH Grants and Cooperative Agreements (Urgent Supplement Clinical Trial Optional)",
+      "agency": "HHS-NIH11",
+      "deadline": "",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361410",
+      "url": "https://www.grants.gov/search-results-detail/361408",
       "source": "Grants.gov",
       "description": ""
     },
@@ -210,56 +260,6 @@
       "description": ""
     },
     {
-      "id": "361364",
-      "title": "Delta Rural Integrated Health Network Program",
-      "agency": "HHS-HRSA",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361364",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "361361",
-      "title": "Region 9 Fiscal Year 2025 Wetland Program Development Grants",
-      "agency": "EPA",
-      "deadline": "04/13/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361361",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "361349",
-      "title": "University Centers for Developmental Disabilities in Education, Research, and Service",
-      "agency": "HHS-ACL",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361349",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "361348",
-      "title": "Improving Chronic Conditions Through Inexpensive Interventions",
-      "agency": "HHS-NIH11",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361348",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "361351",
-      "title": "Precision Measurement Grant Program",
-      "agency": "DOC-NIST",
-      "deadline": "06/22/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361351",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
       "id": "361407",
       "title": "Ambassador's Fund for Cultural Preservation",
       "agency": "DOS-GEO",
@@ -320,62 +320,22 @@
       "description": ""
     },
     {
+      "id": "361364",
+      "title": "Delta Rural Integrated Health Network Program",
+      "agency": "HHS-HRSA",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361364",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
       "id": "361390",
       "title": "Fellowships for Advanced Social Science Research on Japan",
       "agency": "NEH",
       "deadline": "04/22/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/361390",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "361374",
-      "title": "Rural Microentrepreneur Program(RMAP)",
-      "agency": "USDA-RBCS",
-      "deadline": "06/30/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361374",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "361373",
-      "title": "Rural Microentrepreneur Assistance Program",
-      "agency": "USDA-RBCS",
-      "deadline": "06/30/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361373",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "361377",
-      "title": "Strategies to Link, Engage, and Retain Men with HIV in Care: Implementation Technical Assistance Provider",
-      "agency": "HHS-HRSA",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361377",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "361338",
-      "title": "FY 2025 Region 4 Wetlands Program",
-      "agency": "EPA",
-      "deadline": "04/06/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361338",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "361337",
-      "title": "Region 08 Fiscal Year 2025 Wetland Program Development Grants",
-      "agency": "EPA",
-      "deadline": "04/20/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361337",
       "source": "Grants.gov",
       "description": ""
     },
@@ -466,6 +426,16 @@
       "deadline": "09/18/2027",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/343653",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361377",
+      "title": "Strategies to Link, Engage, and Retain Men with HIV in Care: Implementation Technical Assistance Provider",
+      "agency": "HHS-HRSA",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361377",
       "source": "Grants.gov",
       "description": ""
     },
@@ -860,16 +830,6 @@
       "description": ""
     },
     {
-      "id": "361237",
-      "title": "Bat Diet Characterization Focusing on Tricolored Bats and Little Brown Bats for Arnold Air Base, Tennessee",
-      "agency": "DOD-COE-FW",
-      "deadline": "03/05/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361237",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
       "id": "361242",
       "title": "Single Source for Chronic Kidney Diseases of UnceRtain Etiology (CKDu) in Agricultural Communities (CURE) Research Consortium - Data Coordinating Center (DCC)",
       "agency": "HHS-NIH11",
@@ -1230,16 +1190,6 @@
       "description": ""
     },
     {
-      "id": "361379",
-      "title": "Peer Supports for Augmentative and Alternative Communication",
-      "agency": "HHS-ACL",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361379",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
       "id": "361256",
       "title": "Countering Cartel Recruitment in Mexico",
       "agency": "DOS-INL",
@@ -1470,12 +1420,32 @@
       "description": ""
     },
     {
-      "id": "360508",
-      "title": "ACL National Resource Center on Nutrition and Aging",
-      "agency": "HHS-ACL",
-      "deadline": "",
+      "id": "361361",
+      "title": "Region 9 Fiscal Year 2025 Wetland Program Development Grants",
+      "agency": "EPA",
+      "deadline": "04/13/2026",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/360508",
+      "url": "https://www.grants.gov/search-results-detail/361361",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361338",
+      "title": "FY 2025 Region 4 Wetlands Program",
+      "agency": "EPA",
+      "deadline": "04/06/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361338",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361337",
+      "title": "Region 08 Fiscal Year 2025 Wetland Program Development Grants",
+      "agency": "EPA",
+      "deadline": "04/20/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361337",
       "source": "Grants.gov",
       "description": ""
     },
@@ -1616,36 +1586,6 @@
       "deadline": "03/23/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/361193",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "361191",
-      "title": "2026 Atlantic Sea Scallop Research Set Aside Program",
-      "agency": "DOC-DOCNOAAERA",
-      "deadline": "03/23/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361191",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "361152",
-      "title": "Depth-Resolved Algal Bloom Mapping at Lake Okeechobee, FL",
-      "agency": "DOD-COE-ERDC",
-      "deadline": "03/15/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361152",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "361080",
-      "title": "ERDC Broad Agency Announcement",
-      "agency": "DOD-COE-ERDC",
-      "deadline": "01/01/2027",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361080",
       "source": "Grants.gov",
       "description": ""
     },
@@ -1902,139 +1842,184 @@
       "description": "Active Wellcome funding scheme: Mental Health Award Transforming Early Intervention. Visit the URL for eligibility and deadlines."
     },
     {
-      "id": "4201310",
-      "title": "Rangeland health and drought resilience: The promise of sustainable pastoralism in Eurasia (April 2026)",
-      "agency": "UN Convention to Combat Desertification",
-      "deadline": "",
-      "url": "https://reliefweb.int/node/4201310",
-      "source": "ReliefWeb",
-      "description": "Rangelands consist of vast natural and semi-natural grasslands, shrublands, woodlands, and deserts (also known as steppes, prairies, meadows, and savannahs), which are grazed by either livestock or wildlife or both. Healthy, productive, and resilient rangelands provide a wide range of goods and services that support pastoral livelihoods and grassland communities and provide huge benefits for the s"
-    },
-    {
-      "id": "4201300",
-      "title": "Statement of the Forty-fourth Meeting of the Polio IHR Emergency Committee (4 March 2026)",
-      "agency": "World Health Organization",
-      "deadline": "",
-      "url": "https://reliefweb.int/node/4201300",
-      "source": "ReliefWeb",
-      "description": "The 44th meeting of the Emergency Committee under the International Health Regulations (IHR or Regulations) on the international spread of poliovirus was convened by the WHO Director-General on 14 January 2026 with eight out of nine Committee members and the adviser meeting via video conference with affected countries, supported by the WHO Secretariat. The Emergency Committee reviewed the latest e"
-    },
-    {
-      "id": "4201295",
-      "title": "FAO Members in Latin America and Caribbean discuss priorities in fighting hunger and poverty",
-      "agency": "Food and Agriculture Organization of the United Nations",
-      "deadline": "",
-      "url": "https://reliefweb.int/node/4201295",
-      "source": "ReliefWeb",
-      "description": "Regional Conference kicks off as FAO Director-General emphasizes the need for enhanced coordination and support for farmers to bolster progress in food security\n\n**Brasilia \u2013** Ministers from around Latin America and the Caribbean region gathered in Brazil\u2019s capital Wednesday to decide on and outline priority actions for the Food and Agriculture Organization of the United Nations (FAO) and its reg"
-    },
-    {
-      "id": "4201277",
-      "title": "Uncovering flood-driven deprivation from space",
-      "agency": "Australian National University",
-      "deadline": "",
-      "url": "https://reliefweb.int/node/4201277",
-      "source": "ReliefWeb",
-      "description": "**Ishmam Rayan Haq**\n\nEvery year, millions of Bangladeshis [face devastating floods](https://www.unicef.org/bangladesh/en/stories/climate-displacement-loss-and-uncertain-futures) that threaten livelihoods, food security and long-term development. While local adaptation efforts are important, large-scale mitigation through regional cooperation and upstream water management is also critical for redu"
-    },
-    {
-      "id": "4201274",
-      "title": "UNICEF Central African Republic Humanitarian Situation Report No. 2 (End of Year), 31 December 2025",
-      "agency": "UN Children's Fund",
-      "deadline": "",
-      "url": "https://reliefweb.int/node/4201274",
-      "source": "ReliefWeb",
-      "description": "**Highlights**\n\n- UNICEF supported 1,100,000 children through three nationwide polio immunization campaigns, achieving a 100% coverage rate. A total of 6428 individuals at risk of Mpox were vaccinated, and medical kits were provided to districts reporting measles outbreaks.\n- 563,591 children (6 to 59 months) were screened for malnutrition. UNICEF financed the nutrition supply chain across all 35 "
-    },
-    {
-      "id": "4201265",
-      "title": "Cameroon - Child Protection AoR: North West & South West Regions 5Ws Monthly Reach and Operational Presence: Operational Maps, January 2026",
-      "agency": "Child Protection Area of Responsibility",
-      "deadline": "",
-      "url": "https://reliefweb.int/node/4201265",
-      "source": "ReliefWeb",
-      "description": "In January 2026, 17 AoR partners implemented child protection activities in 11 out of 13 Divisions and covered 27 Subdivisions of the NWSW regions. These partners include UNICEF, Green Partners Association, ASWEDO, TeenAlive, BIHAPH, CBCHS, Cornerstone Enrichment Services, Caritas Bamenda, Caritas Kumba, Foundation for Inclusive Education, Global Community Rescue, GLOCIR, and PAIDWA. From the 13 p"
-    },
-    {
-      "id": "4201264",
-      "title": "Cameroon - Child Protection AoR: North West & South West Regions 5Ws Monthly Reach and Operational Presence: Operational Maps (January to December 2025)",
-      "agency": "Child Protection Area of Responsibility",
-      "deadline": "",
-      "url": "https://reliefweb.int/node/4201264",
-      "source": "ReliefWeb",
-      "description": "From January to December 2025, 62 AoR partners implemented child protection activities in 13 Divisions and covered 55 Subdivisions (29 in the NWS and 26 in the SW). These partners include UNICEF, PAID-WA,DRC, NRC, AMEF, ASWEDO, AWA, BETA, BIHAPH, CAFEDO, CAMHELP, CARITAS Buea, CASAF, CBCHS, CES, Caritas Bamenda, GHCO, Caritas Kumba, REACH BACK, Caritas Kumbo, FIED, Caritas Mamfe, FGI, GCR, GLOCIR,"
-    },
-    {
-      "id": "4201248",
-      "title": "Lebanon: IRC warns of mounting humanitarian needs for tens of thousands fleeing escalating violence",
-      "agency": "International Rescue Committee",
-      "deadline": "",
-      "url": "https://reliefweb.int/node/4201248",
-      "source": "ReliefWeb",
-      "description": "**Beirut, Lebanon, March 4, 2026** \u2014 In the wake of military escalations across much of the Middle East, hostilities between Hezbollah and Israel escalated dramatically on March 1st, forcing tens of thousands of people in Lebanon to flee their homes. This outbreak of violence marks the most serious deterioration in security conditions since the November 2024 ceasefire agreement, exacerbating an al"
-    },
-    {
-      "id": "4201052",
-      "title": "Escalation in the Middle East \u2013 humanitarian implications: Statement by Tom Fletcher, USG for Humanitarian Affairs and Emergency Relief Coordinator",
-      "agency": "UN Office for the Coordination of Humanitarian Affairs",
-      "deadline": "",
-      "url": "https://reliefweb.int/node/4201052",
-      "source": "ReliefWeb",
-      "description": "The humanitarian fallout from the escalation of violence in the Middle East is increasingly daunting.\n\n First, civilians are paying the price across the region. Civilians must be protected - full stop. Yet strikes are hitting homes, hospitals, and schools. Civilians and civilian infrastructure have been under attack in Iran, Lebanon, Syria, the Occupied Palestinian Territory (OPT), Israel, the Uni"
-    },
-    {
-      "id": "4201003",
-      "title": "Middle East and regional escalation: 5 ways to talk to children about conflict",
-      "agency": "Save the Children",
-      "deadline": "",
-      "url": "https://reliefweb.int/node/4201003",
-      "source": "ReliefWeb",
-      "description": "**LONDON/GENEVA, 3 March 2026 \u2013** As hostilities escalate in the Middle East and the wider region, children may see and hear about the conflict in the news or in real life, leading to feelings of anxiety and fear, and needing parents\u2019 and caregivers\u2019 support.\n\n**Save the Children\u2019s Global Head of Child Protection, Rebecca Smith**, said children may have questions about the images, stories, and con"
-    },
-    {
-      "id": "4201289",
-      "title": "North Macedonia Floods 2026 - DREF Operation Update (MDRMK011)",
+      "id": "4201476",
+      "title": "Bangladesh | Cyclone: Early Action Protocol - 2025 Annual Report (EAP \u2116: EAP2021BD06, Operation \u2116: MDRBD033), 5 March 2026",
       "agency": "International Federation of Red Cross and Red Crescent Societies",
       "deadline": "",
-      "url": "https://reliefweb.int/node/4201289",
+      "url": "https://reliefweb.int/node/4201476",
       "source": "ReliefWeb",
-      "description": "**Description of the Event**\n\n**Date of event**\n\n29-01-2026\n\n**What happened, where and when?**\n\nDuring the period of early to mid\u2010January 2026, North Macedonia was affected by a persistent cyclonic system that generated widespread and intensive precipitation. According to the National Hydrometeorological Service (UHMK), the system produced \u201cmore abundant rainfall in the central and eastern parts "
+      "description": "**SUMMARY OF THE EARLY ACTION PROTOCOL**\n\nIn January 2024, the IFRC Disaster Response Emergency Fund (DREF) allocated CHF 499,987 for the Bangladesh Red Crescent Society (BDRCS) to implement early actions to reduce and mitigate the impact of Cyclone in Bangladesh. The early actions to be conducted were pre-agreed with the National Society and are described in the Early Action Protocol (EAP) Summar"
     },
     {
-      "id": "4201275",
-      "title": "Lebanon Crisis: Regional Conflict - Flash Update (March 3, 2026)",
-      "agency": "United Nations Population Fund",
+      "id": "4201471",
+      "title": "Bangladesh | Cold Wave: Early Action Protocol Summary - 2025 Annual Report (EAP \u2116: EAP2024BD07, Operation \u2116: MDRBD038), 5 March 2026",
+      "agency": "International Federation of Red Cross and Red Crescent Societies",
       "deadline": "",
-      "url": "https://reliefweb.int/node/4201275",
+      "url": "https://reliefweb.int/node/4201471",
       "source": "ReliefWeb",
-      "description": "On March 2, 2026, Israel launched intensive airstrikes across Beirut\u2019s southern suburbs, South Lebanon, and the Bekaa valley, following Hezbollah\u2019s response to the killing of the Iranian Supreme Leader Ayatollah Khamenei. This latest escalation has killed at least 40 people and injured 246 as of 3 March.\n\nIsraeli forced evacuation orders on 3 March 2026 for over 50 villages have triggered a massiv"
+      "description": "**SUMMARY OF THE EARLY ACTION PROTOCOL**\n\nIn 2025, the IFRC Disaster Response Emergency Fund (DREF) allocated CHF 499,980 for the implementation anticipatory actions to reduce and mitigate the impact of Cold Wave in Bangladesh. This Early Action Protocol includes an allocation of CHF 176,675 for readiness, CHF 55,913 for pre-positioning stock and CHF 267,393 automatically allocated to implement ea"
     },
     {
-      "id": "4201268",
-      "title": "Somalia: Public Health Situation Analysis (PHSA) (04 March 2026)",
-      "agency": "Health Cluster",
+      "id": "4201469",
+      "title": "Zambia Cholera Readiness and Response 2026: DREF Operation (MDRZM027)",
+      "agency": "International Federation of Red Cross and Red Crescent Societies",
       "deadline": "",
-      "url": "https://reliefweb.int/node/4201268",
+      "url": "https://reliefweb.int/node/4201469",
       "source": "ReliefWeb",
-      "description": "**Summary of Crisis and Key Findings**\n\nIn 2025, needs were driven by the complex interaction of climate shocks, prolonged conflict and insecurity, large-scale displacement, chronic fragility, and public health threats. Severe funding reductions reshaped the humanitarian response. By mid-year, humanitarian partners were forced to revise the Humanitarian Needs and Response Plan (HNRP) targets from "
+      "description": "**Date when the trigger was met**\n\n09-02-2026\n\n**What happened, where and when?**\n\nZambia has been experiencing the cholera outbreak since 5th August 2025. The first case was detected at Chipwa Health post bordering Tanzania in a region that was experiencing cholera then. Within a few weeks, the disease spread to other parts of Northern Province before sporadic cases were reported on the Copperbel"
     },
     {
-      "id": "4201202",
-      "title": "Children are bearing the brunt of the escalating violence in Lebanon",
+      "id": "4201408",
+      "title": "Statement on the escalating conflict in the Middle East",
+      "agency": "Humanitarian Coalition",
+      "deadline": "",
+      "url": "https://reliefweb.int/node/4201408",
+      "source": "ReliefWeb",
+      "description": "The Humanitarian Coalition is deeply concerned about the escalating military violence in the Middle East that is increasingly putting civilian lives in danger.\n\nMore than 100 children were reportedly killed in strikes on a girls\u2019 school in Iran. In Lebanon, displacement has more than tripled in the last 48 hours, with nearly 80,000 people now sheltering in facilities across the country. The situat"
+    },
+    {
+      "id": "4201399",
+      "title": "Tanzania strengthens pandemic preparedness with expanded respiratory surveillance",
+      "agency": "World Health Organization",
+      "deadline": "",
+      "url": "https://reliefweb.int/node/4201399",
+      "source": "ReliefWeb",
+      "description": "**Morogoro \u2013**Tanzania has significantly boosted its pandemic preparedness by enhancing its capacity to detect and respond to respiratory disease threats. The country has expanded its sentinel surveillance network from 9 sites in 2021 to 27 sites across 19 regions today, enabling faster detection of pathogens such as COVID-19, influenza, RSV, adenoviruses, and other emerging respiratory infections"
+    },
+    {
+      "id": "4201398",
+      "title": "Kenya introduces WHO child development assessment tool in national health survey for the first time",
+      "agency": "World Health Organization",
+      "deadline": "",
+      "url": "https://reliefweb.int/node/4201398",
+      "source": "ReliefWeb",
+      "description": "**Nairobi -** For the first time, Kenya has measured how children under five are growing, learning, and developing as part of a major national health survey, a move that could reshape how the country designs and delivers support for its youngest citizens.\n\nThe early years of a child's life are widely recognised as the most significant period of brain development. The quality of nurturing care a ch"
+    },
+    {
+      "id": "4201396",
+      "title": "Ethiopia launches digitalization of public health emergency management system, advances toward PHEM Center of Excellence",
+      "agency": "World Health Organization",
+      "deadline": "",
+      "url": "https://reliefweb.int/node/4201396",
+      "source": "ReliefWeb",
+      "description": "**Addis Ababa, Ethiopia** - In a landmark step toward strengthening national health security, Ethiopia officially launched the digitalization of its Public Health Emergency Management (PHEM) system, marking significant progress toward establishing the Public Health Emergency Management Center of Excellence (PHEM-COE).\n\nThe high-level event in Addis Ababa convened senior government leaders and deve"
+    },
+    {
+      "id": "4201346",
+      "title": "Japan and UNHCR sign USD 2.6 million assistance to Rohingya refugees in Cox\u2019s Bazar",
+      "agency": "UN High Commissioner for Refugees",
+      "deadline": "",
+      "url": "https://reliefweb.int/node/4201346",
+      "source": "ReliefWeb",
+      "description": "The Government of Japan today renewed its commitment to Rohingya refugees in Bangladesh, pledging USD 2.6 million for shelter materials, primary healthcare, and clean cooking sets.\n\nAn Exchange of Notes was signed by H.E. Mr. SAIDA Shinichi, Ambassador of Japan to Bangladesh, and Ivo Freijsen, UNHCR Representative in Bangladesh.\n\nJapan\u2019s generous support enables UNHCR, the UN Refugee Agency, to ma"
+    },
+    {
+      "id": "4201334",
+      "title": "Goats help girls avoid child marriage as rates rise in Bangladesh",
+      "agency": "Save the Children",
+      "deadline": "",
+      "url": "https://reliefweb.int/node/4201334",
+      "source": "ReliefWeb",
+      "description": "**DHAKA, 5 March 2026** - More than 1,000 girls in Bangladesh have avoided marriage and stayed in education after receiving income-generating support from Save the Children, including being given goats for rearing, at a time when child marriage is on the rise.\n\nBangladesh has the highest percentage of child marriages in Asia, according to the UN \\[1\\], with nearly 42% of children married before 18"
+    },
+    {
+      "id": "4201321",
+      "title": "IFRC warns harmful information is putting lives at risk during crises | IFRC",
+      "agency": "International Federation of Red Cross and Red Crescent Societies",
+      "deadline": "",
+      "url": "https://reliefweb.int/node/4201321",
+      "source": "ReliefWeb",
+      "description": "**Geneva, 5 March 2026 \u2013** Harmful information is undermining life-saving humanitarian action at a time when disasters are affecting more people, more often, according to the [***World Disasters Report 2026***](https://www.ifrc.org/document/world-disasters-report-2026), released today by the International Federation of Red Cross and Red Crescent Societies (IFRC).\n\nBetween 2020 and 2024, disasters "
+    },
+    {
+      "id": "4201502",
+      "title": "Viet Nam | Heatwave Early Action Protocol 2025 Annual Report - 5 March 2026 (MAA51001)",
+      "agency": "International Federation of Red Cross and Red Crescent Societies",
+      "deadline": "",
+      "url": "https://reliefweb.int/node/4201502",
+      "source": "ReliefWeb",
+      "description": "**SUMMARY OF THE EARLY ACTION PROTOCOL**\n\nThe IFRC Disaster Response Emergency Fund (DREF) has allocated CHF 225,285 for the implementation of anticipatory actions to reduce and mitigate the impact of heatwave in Viet Nam. This Early Action Protocol (EAP) includes an allocation of CHF 111,390 to preposition stock and to undertake annual readiness activities to implement early actions, if and when "
+    },
+    {
+      "id": "4201488",
+      "title": "UNICEF Lebanon Humanitarian Flash Update No.2 (Escalation of Hostilities), 5 March 2026",
       "agency": "UN Children's Fund",
       "deadline": "",
-      "url": "https://reliefweb.int/node/4201202",
+      "url": "https://reliefweb.int/node/4201488",
       "source": "ReliefWeb",
-      "description": "**BEIRUT, 4 March 2026 \u2013** Seven children have been killed and 38 injured in the past 24 hours amid escalating hostilities across Lebanon, according to the Ministry of Public Health (MoPH).\n\nThis high number of child casualties comes as renewed airstrikes hit multiple areas across the country, triggering massive displacement and deepening an already fragile humanitarian situation.\n\nIn the last 24 "
+      "description": "**SITUATION UPDATE AND HUMANITARIAN NEEDS**\n\n\u2022 Hostilities in Lebanon have further escalated with intense airstrikes reported across multiple areas north and south of the Litani River including South, Nabatieh, Beirut, Bekaa, Baalbek-El Hermel, Mount Lebanon and the North. Ground clashes have also been reported in parts of southern Lebanon. Reportedly all villages South of the Litani River (all SL"
     },
     {
-      "id": "4201118",
-      "title": "Armenia: Facts and figures (January-December 2025)",
-      "agency": "International Committee of the Red Cross",
+      "id": "4201486",
+      "title": "Syrian Arab Republic \u2014 Emergency Mobility Tracking: Aleppo/ North East Syria (NES) Conflict \u2014 Round 14 (04 March 2026)",
+      "agency": "International Organization for Migration",
       "deadline": "",
-      "url": "https://reliefweb.int/node/4201118",
+      "url": "https://reliefweb.int/node/4201486",
       "source": "ReliefWeb",
-      "description": "Through our delegation in Yerevan and sub-delegation in Goris, we continued to support those affected by the conflict escalations in 2020-2023. We sustained our efforts in facilitating resilience-building programs, supporting access to emergency healthcare, in communities situated along the border between Armenia and Azerbaijan.\n\nWe continued to provide direct support to the families of those miss"
+      "description": "**OVERVIEW**\n\nAs of 04 March, Al-Hasakeh Governorate remains relatively stable, with no major clashes reported. Consequently, displaced individuals continue to return to their areas of origin. Since the peak of displacement recorded in Al-Hasakeh on 29 January (146,511 individuals), an estimated 45 per cent of displaced individuals have returned to areas where security conditions have relatively s"
+    },
+    {
+      "id": "4201485",
+      "title": "UNICEF South Asia Region Humanitarian Situation Report No. 2 (End of Year), 31 December 2025",
+      "agency": "UN Children's Fund",
+      "deadline": "",
+      "url": "https://reliefweb.int/node/4201485",
+      "source": "ReliefWeb",
+      "description": "**Highlights**\n\n- South Asia experienced a year of severe and overlapping crises, including climate related floods, landslides, cyclones, droughts, extreme heat, and earthquakes, alongside major public health emergencies and protracted man-made shocks marked by conflict related violence and cross-border dynamics.\n- UNICEF reached 22.5 million crisis affected people through life-saving health, nutr"
+    },
+    {
+      "id": "4201480",
+      "title": "Knowledge Management Series for Health: Outbreak Response in a Fragile System: Cholera Knockout in South Sudan (March 2026)",
+      "agency": "World Health Organization",
+      "deadline": "",
+      "url": "https://reliefweb.int/node/4201480",
+      "source": "ReliefWeb",
+      "description": "**Context of Cholera in South Sudan**\n\nCholera remains a significant public health threat in South Sudan, particularly in areas with limited access to safe water, sanitation, and timely healthcare. The country has experienced repeated outbreaks over the past decade, often exacerbated by population displacement, flooding, and fragile health infrastructure.\n\nThe current outbreak started in September"
+    },
+    {
+      "id": "4201472",
+      "title": "Cameroon Food Insecurity Assessment and Response: DREF Operation Update #1 (MDRCM042)",
+      "agency": "International Federation of Red Cross and Red Crescent Societies",
+      "deadline": "",
+      "url": "https://reliefweb.int/node/4201472",
+      "source": "ReliefWeb",
+      "description": "**Description of the Event**\n\n**Date when the trigger was met**\n\n24-02-2026\n\n**What happened, where and when?**\n\nThe food security situation in Cameroon has steadily deteriorated throughout 2025 due to overlapping climatic, economic, conflict-related, and public-health shocks. In response to growing concerns and information gaps, the Cameroon Red Cross conducted a large-scale community assessment "
+    },
+    {
+      "id": "4201401",
+      "title": "Ethiopia: A New Phase of Support for Safety Nets will Foster Resilience and Create Pathways to Decent Jobs",
+      "agency": "World Bank",
+      "deadline": "",
+      "url": "https://reliefweb.int/node/4201401",
+      "source": "ReliefWeb",
+      "description": "**WASHINGTON, March 3, 2026** \u2014 The World Bank\u2019s Board of Executive Directors approved a new phase of support for safety nets in Ethiopia under the [Productive Safety Net Project 6](https://documents1.worldbank.org/curated/en/099111425070037792/pdf/P511478-ba2ad2f0-3dbb-4993-b589-00b84ca54059.pdf) (PSNP 6), a project designed to create jobs, enhance food security, build climate resilience, and sup"
+    },
+    {
+      "id": "4201400",
+      "title": "Jimma University advances local innovation to strengthen antimicrobial resistance surveillance in Ethiopia",
+      "agency": "World Health Organization",
+      "deadline": "",
+      "url": "https://reliefweb.int/node/4201400",
+      "source": "ReliefWeb",
+      "description": "Jimma, Ethiopia | 27 February 2026 \u2014 Jimma University is advancing national efforts in Ethiopia to combat antimicrobial resistance (AMR) through the Local Production of Antibiotic Disc (LoPAD) project, an innovative initiative supported by the World Health Organization (WHO) under the Leap Engage Accelerate Disrupt (LEAD) Innovation Challenge Program.\n\nThe project is testing the possibility of loc"
+    },
+    {
+      "id": "4201412",
+      "title": "WHO Occupied Palestinian Territory Flash Update \u2013 4 March 2026",
+      "agency": "World Health Organization",
+      "deadline": "",
+      "url": "https://reliefweb.int/node/4201412",
+      "source": "ReliefWeb",
+      "description": "he regional escalation that began on 28 February 2026, and its spillover effects are impacting the delivery and continuity of health care services in the occupied Palestinian territory.\n\n**Situation in the Gaza Strip Crossings**\n\n \u2022 Most crossings into the Gaza Strip, critical for the delivery of humanitarian assistance and for the medical evacuation of patients in need of specialized care, remain"
+    },
+    {
+      "id": "4201395",
+      "title": "Escalating Middle East Conflict Strains Health Systems and Disrupts Humanitarian Supply Routes",
+      "agency": "Direct Relief",
+      "deadline": "",
+      "url": "https://reliefweb.int/node/4201395",
+      "source": "ReliefWeb",
+      "description": "By [**Tony Morain**](https://www.directrelief.org/author/tmorain/)\n\n[March 4, 2026 3:45 PM](https://www.directrelief.org/2026/03/escalating-middle-east-conflict-strains-health-systems-and-disrupts-humanitarian-supply-routes/)\n\nRepublish\n\nOver the past year, Direct Relief has delivered more than $100 million in medical aid and grants to healthcare partners across the Middle East and neighboring cou"
     },
     {
       "id": "4201276",
@@ -2044,6 +2029,15 @@
       "url": "https://reliefweb.int/node/4201276",
       "source": "ReliefWeb",
       "description": "As of January 2026, the humanitarian situation in Cameroon\u2019s Far North, North-West, and South-West regions remains dire. The targeted destruction and looting of the Darak Medical Health Centre on 20 January by non-state armed groups (NSAGs) has paralysed local healthcare, disrupting essential sexual and reproductive health and gender-based violence (GBV) and creating a protection crisis for women "
+    },
+    {
+      "id": "4201274",
+      "title": "UNICEF Central African Republic Humanitarian Situation Report No. 2 (End of Year), 31 December 2025",
+      "agency": "UN Children's Fund",
+      "deadline": "",
+      "url": "https://reliefweb.int/node/4201274",
+      "source": "ReliefWeb",
+      "description": "**Highlights**\n\n- UNICEF supported 1,100,000 children through three nationwide polio immunization campaigns, achieving a 100% coverage rate. A total of 6428 individuals at risk of Mpox were vaccinated, and medical kits were provided to districts reporting measles outbreaks.\n- 563,591 children (6 to 59 months) were screened for malnutrition. UNICEF financed the nutrition supply chain across all 35 "
     },
     {
       "id": "4201267",
@@ -2091,31 +2085,31 @@
       "description": "A recent flare-up of conflict in northern Mozambique is a stark reminder that the situation remains volatile, just as MSF concluded its response in key areas.\n\nConflict has ravaged the province of [Cabo Delgado](https://www.doctorswithoutborders.org/latest/conflict-feels-endless-mass-displacement-surges-northern-mozambique) in northern [Mozambique](https://www.doctorswithoutborders.org/what-we-do/"
     },
     {
-      "id": "4200384",
-      "title": "Gender-Based Violence in Sudan: Crisis Overview and Response Priorities in 2026",
-      "agency": "United Nations Population Fund",
+      "id": "4201487",
+      "title": "The brutality of war measured in children\u2019s lives as hostilities escalate in Iran [EN/AR]",
+      "agency": "UN Children's Fund",
       "deadline": "",
-      "url": "https://reliefweb.int/node/4200384",
+      "url": "https://reliefweb.int/node/4201487",
       "source": "ReliefWeb",
-      "description": "Sudan\u2019s humanitarian crisis has sharply escalated in 2026, reflecting a deepening convergence of protracted conflict, mass displacement, widespread violations of humanitarian and human rights law, economic collapse, acute food insecurity, climate shocks, and recurring disease outbreaks. As of January 2026, more than 9.2 million people are internally displaced across all 18 states\u2014according to the "
+      "description": "**AMMAN, 5 March 2026 \u2014** \u201cUNICEF is deeply concerned about the deadly impact the ongoing military escalation in Iran is having on children. Approximately 180 children have reportedly been killed and many more injured.\n\n\u201cAmong the casualties are 168 girls killed when a strike hit the Shajareh Tayyebeh girls\u2019 elementary school in Minab, in southern Iran, on 28 February, while classes were in sessio"
     },
     {
-      "id": "4200106",
-      "title": "Health on wheels for flood-affected communities in Pakistan",
+      "id": "4201438",
+      "title": "WHO S\u00e3o Tom\u00e9 and Pr\u00edncipe Newsletter - October to December 2025",
       "agency": "World Health Organization",
       "deadline": "",
-      "url": "https://reliefweb.int/node/4200106",
+      "url": "https://reliefweb.int/node/4201438",
       "source": "ReliefWeb",
-      "description": "**19 February 2026, Islamabad/Lahore** \u2013 \u201cThey didn\u2019t just bring medicine; they brought the hospital to our doorstep,\u201d says Haider, a local farmer from Jhook Dargai village. He is one of the 250 000 people affected by the 2025 monsoon floods in Punjab who have been prioritized by the World Health Organization (WHO) to receive essential health services, as part of the response funded by the UN Cent"
+      "description": "The fourth edition of the WHO S\u00e3o Tom\u00e9 and Pr\u00edncipe Quarterly Newsletter highlights key achievements from October to December 2025. The country completed both the IHR self\u2011assessment and the Joint External Evaluation, marking major progress in health security. Important steps were taken in health financing with the publication of the National Health Accounts and international recognition of the Na"
     },
     {
-      "id": "4200070",
-      "title": "Ukraine\u2019s Health Care System Endures Over 2600 Attacks Four Years On From Russia\u2019s Full-Scale Invasion",
-      "agency": "Insecurity Insight",
+      "id": "4201300",
+      "title": "Statement of the Forty-fourth Meeting of the Polio IHR Emergency Committee (4 March 2026)",
+      "agency": "World Health Organization",
       "deadline": "",
-      "url": "https://reliefweb.int/node/4200070",
+      "url": "https://reliefweb.int/node/4201300",
       "source": "ReliefWeb",
-      "description": "GENEVA - Four years after Russia launched its full-scale invasion of Ukraine, health care remains under sustained attack. Since 24 February 2022, a total of 2,591 attacks on Ukraine's health care system have been documented by Insecurity Insight in partnership with Physicians for Human Rights (PHR), eyeWitness to Atrocities, Media Initiative for Human Rights, Truth Hounds, and the Ukrainian Health"
+      "description": "The 44th meeting of the Emergency Committee under the International Health Regulations (IHR or Regulations) on the international spread of poliovirus was convened by the WHO Director-General on 14 January 2026 with eight out of nine Committee members and the adviser meeting via video conference with affected countries, supported by the WHO Secretariat. The Emergency Committee reviewed the latest e"
     },
     {
       "id": "4201297",
@@ -2136,13 +2130,13 @@
       "description": "**Description of the Event**\n\n**Date of event**\n\n24-02-2026\n\n**What happened, where and when?**\n\nThe snowstorm event started since 21 February 2026 across multiple provinces in Mongolia, particularly affecting eastern, northern, southern, and western regions, including Bayanhongor, Darkhan-Uul, Orkhon, Dornod, Dornogovi, Dundgovi, Govi-Altai, Khentii, Khuvsgul, Selenge, Sukhbaatar, Umnugovi, Tuv, "
     },
     {
-      "id": "4201256",
-      "title": "Child marriages surge in Gaza as war tightens grip on girls\u2019 futures",
-      "agency": "United Nations Population Fund",
+      "id": "4201277",
+      "title": "Uncovering flood-driven deprivation from space",
+      "agency": "Australian National University",
       "deadline": "",
-      "url": "https://reliefweb.int/node/4201256",
+      "url": "https://reliefweb.int/node/4201277",
       "source": "ReliefWeb",
-      "description": "**GAZA, The Occupied Palestinian Territory \u2013** \u201cWhen my aunt asked for my hand in marriage for her son, my father agreed immediately,\u201d said Amal\\*, from Khan Younis in southern Gaza. But the ceremony wasn\u2019t a happy one \u2013 at least not for her. \u201cThere was no wedding, no dress, no celebration,\u201d she said. \u201cIt felt like a deal to get rid of a burden.\u201d\n\nReports of child marriages are rising across Gaza "
+      "description": "**Ishmam Rayan Haq**\n\nEvery year, millions of Bangladeshis [face devastating floods](https://www.unicef.org/bangladesh/en/stories/climate-displacement-loss-and-uncertain-futures) that threaten livelihoods, food security and long-term development. While local adaptation efforts are important, large-scale mitigation through regional cooperation and upstream water management is also critical for redu"
     },
     {
       "id": "4200587",
@@ -2332,15 +2326,6 @@
       "url": "https://reliefweb.int/node/4199755",
       "source": "ReliefWeb",
       "description": "**An MSF project in Zimbabwe centers the voices of young people to better meet their specific health needs, making them active contributors to the design and delivery of their care.**\n\nAt just 21 years old, Thormilson Thompson carries a responsibility far greater than his age might suggest: helping other young people access health care in care in Mbare, a suburb of [Zimbabwe\u2019s](https://www.doctors"
-    },
-    {
-      "id": "4199709",
-      "title": "WFP Dominican Republic Country Brief January 2026",
-      "agency": "World Food Programme",
-      "deadline": "",
-      "url": "https://reliefweb.int/node/4199709",
-      "source": "ReliefWeb",
-      "description": "Operational Updates\n\nWFP continues to strengthen protection, gender and age sensitive disaster governance by supporting the celebration of the first annual meeting of the Consultative Team on Protection, Gender and Age (EC PGE), a national inter institutional mechanism formally attached to the National Emergency Commission. In this working session, members advanced institutional safeguards by fina"
     },
     {
       "id": "4196673",
