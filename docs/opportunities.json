@@ -1,21 +1,61 @@
 {
-  "last_updated": "2026-03-06T07:32:49Z",
-  "total": 250,
+  "last_updated": "2026-03-07T07:22:06Z",
+  "total": 245,
   "by_source": {
-    "Grants.gov": 158,
+    "Grants.gov": 152,
     "WHO": 9,
     "Gates Foundation (Grand Challenges)": 6,
     "Wellcome Trust": 13,
-    "ReliefWeb": 64
+    "ReliefWeb": 65
   },
   "opportunities": [
     {
-      "id": "361413",
-      "title": "Community Reentry Settings Initiative",
-      "agency": "USDOJ-BOP-NIC",
+      "id": "360976",
+      "title": "Children's Mental Health Initiative",
+      "agency": "HHS-SAMHS-SAMHSA",
+      "deadline": "04/20/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/360976",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "360971",
+      "title": "Implementing Zero Suicide in Health Systems",
+      "agency": "HHS-SAMHS-SAMHSA",
+      "deadline": "04/20/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/360971",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361421",
+      "title": "Housing-Related Hazards and Lead-Based Paint Capital Fund Program",
+      "agency": "HUD",
       "deadline": "05/04/2026",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361413",
+      "url": "https://www.grants.gov/search-results-detail/361421",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "359701",
+      "title": "Development of Collaborative Research Facilities or Research-Resource Facilities (C06 Clinical Trial Not Allowed)",
+      "agency": "HHS-NIH11",
+      "deadline": "01/25/2028",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/359701",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361417",
+      "title": "WaterSMART: Applied Science Grants",
+      "agency": "DOI-BOR",
+      "deadline": "07/08/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361417",
       "source": "Grants.gov",
       "description": ""
     },
@@ -30,12 +70,12 @@
       "description": ""
     },
     {
-      "id": "361415",
-      "title": "WaterSMART Drought Response Program",
-      "agency": "DOI-BOR",
-      "deadline": "",
+      "id": "361413",
+      "title": "Community Reentry Settings Initiative",
+      "agency": "USDOJ-BOP-NIC",
+      "deadline": "05/04/2026",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361415",
+      "url": "https://www.grants.gov/search-results-detail/361413",
       "source": "Grants.gov",
       "description": ""
     },
@@ -50,12 +90,12 @@
       "description": ""
     },
     {
-      "id": "361417",
-      "title": "WaterSMART: Applied Science Grants",
+      "id": "361415",
+      "title": "WaterSMART Drought Response Program",
       "agency": "DOI-BOR",
-      "deadline": "07/08/2026",
+      "deadline": "",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361417",
+      "url": "https://www.grants.gov/search-results-detail/361415",
       "source": "Grants.gov",
       "description": ""
     },
@@ -220,42 +260,12 @@
       "description": ""
     },
     {
-      "id": "361366",
-      "title": "Capital Improvements for At-Risk/Receivership/Substandard/Troubled PHAs",
-      "agency": "HUD",
-      "deadline": "04/28/2026",
+      "id": "361419",
+      "title": "Snow Water Supply Forecasting Program FY 2026",
+      "agency": "DOI-BOR",
+      "deadline": "05/05/2026",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361366",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "361365",
-      "title": "Next-Generation Geothermal Field Tests and Geothermal Resource Characterization and Confirmation",
-      "agency": "DOE-GFO",
-      "deadline": "03/27/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361365",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "361368",
-      "title": "The Reentry Employment in Skilled Trades, Advanced Manufacturing, Registered Apprenticeships, and Training (RESTART) Initiative",
-      "agency": "DOL-ETA",
-      "deadline": "04/15/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361368",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "360057",
-      "title": "Veterans Legacy Grants Program",
-      "agency": "VA-VLGP",
-      "deadline": "03/27/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/360057",
+      "url": "https://www.grants.gov/search-results-detail/361419",
       "source": "Grants.gov",
       "description": ""
     },
@@ -280,12 +290,12 @@
       "description": ""
     },
     {
-      "id": "361383",
-      "title": "FY 2026 Competitive Funding Opportunity: All Stations Accessibility Program",
-      "agency": "DOT-FTA",
-      "deadline": "05/01/2026",
+      "id": "361366",
+      "title": "Capital Improvements for At-Risk/Receivership/Substandard/Troubled PHAs",
+      "agency": "HUD",
+      "deadline": "04/28/2026",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361383",
+      "url": "https://www.grants.gov/search-results-detail/361366",
       "source": "Grants.gov",
       "description": ""
     },
@@ -306,36 +316,6 @@
       "deadline": "04/22/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/361387",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "361385",
-      "title": "Fellowships",
-      "agency": "NEH",
-      "deadline": "04/22/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361385",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "361364",
-      "title": "Delta Rural Integrated Health Network Program",
-      "agency": "HHS-HRSA",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361364",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "361390",
-      "title": "Fellowships for Advanced Social Science Research on Japan",
-      "agency": "NEH",
-      "deadline": "04/22/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361390",
       "source": "Grants.gov",
       "description": ""
     },
@@ -670,16 +650,6 @@
       "description": ""
     },
     {
-      "id": "360721",
-      "title": "Strategic support for human resources for health for the Ministry of Health and Social Services (MOHSS) to sustain HIV epidemic control in Namibia under the U.S. President's Emergency Plan for AIDS Relief (PEPFAR)",
-      "agency": "HHS-CDC-GHC",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/360721",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
       "id": "361411",
       "title": "Expanding the Therapeutic Pipeline for Treating and Preventing Alzheimer's Disease and Related Dementias: Preclinical Validation and Drug Discovery for Novel Candidate Targets (U01 Clinical Trial Not Allowed)",
       "agency": "HHS-NIH11",
@@ -870,26 +840,6 @@
       "description": ""
     },
     {
-      "id": "359725",
-      "title": "The Metastasis Research Network (MetNet): MetNet Research Projects (U01 Clinical Trial Not Allowed)",
-      "agency": "HHS-NIH11",
-      "deadline": "11/22/2028",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/359725",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "361216",
-      "title": "Specialized Alcohol Research Centers (P50 Clinical trial Optional)",
-      "agency": "HHS-NIH11",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361216",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
       "id": "359646",
       "title": "Animal and Biological Material Resource Centers (P40 Clinical Trial Not Allowed)",
       "agency": "HHS-NIH11",
@@ -1070,6 +1020,16 @@
       "description": ""
     },
     {
+      "id": "360721",
+      "title": "Strategic support for human resources for health for the Ministry of Health and Social Services (MOHSS) to sustain HIV epidemic control in Namibia under the U.S. President's Emergency Plan for AIDS Relief (PEPFAR)",
+      "agency": "HHS-CDC-GHC",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/360721",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
       "id": "360716",
       "title": "Empowering Laboratory systems Towards Sustainability (ELTOS): Best practices and innovations in Lesotho under the President's Emergency Plan for AIDS Relief (PEPFAR)",
       "agency": "HHS-CDC-GHC",
@@ -1176,16 +1136,6 @@
       "deadline": "",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/360342",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "360331",
-      "title": "Strengthening public health efforts and partnerships to protect and improve health in the Democratic Republic of the Congo (DRC)",
-      "agency": "HHS-CDC-GHC",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/360331",
       "source": "Grants.gov",
       "description": ""
     },
@@ -1410,12 +1360,22 @@
       "description": ""
     },
     {
-      "id": "360516",
-      "title": "Advancing Strategies to Enhance Preventative Health to Older Adults in the Senior Nutrition Program",
-      "agency": "HHS-ACL",
-      "deadline": "",
+      "id": "360965",
+      "title": "Assisted Outpatient Treatment Program",
+      "agency": "HHS-SAMHS-SAMHSA",
+      "deadline": "04/20/2026",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/360516",
+      "url": "https://www.grants.gov/search-results-detail/360965",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361365",
+      "title": "Next-Generation Geothermal Field Tests and Geothermal Resource Characterization and Confirmation",
+      "agency": "DOE-GFO",
+      "deadline": "03/27/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361365",
       "source": "Grants.gov",
       "description": ""
     },
@@ -1566,26 +1526,6 @@
       "deadline": "03/26/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/361219",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "361209",
-      "title": "2025 South Florida Program",
-      "agency": "EPA",
-      "deadline": "03/16/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361209",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "361193",
-      "title": "Department of the Interior (DOI), Office of Wildland Fire (OWF) - Slip-On Tanker Units",
-      "agency": "DOI-IBC",
-      "deadline": "03/23/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361193",
       "source": "Grants.gov",
       "description": ""
     },
@@ -1842,6 +1782,42 @@
       "description": "Active Wellcome funding scheme: Mental Health Award Transforming Early Intervention. Visit the URL for eligibility and deadlines."
     },
     {
+      "id": "4201699",
+      "title": "Survivors demand justice for digital gender-based violence",
+      "agency": "United Nations Population Fund",
+      "deadline": "",
+      "url": "https://reliefweb.int/node/4201699",
+      "source": "ReliefWeb",
+      "description": "**NAIROBI, Kenya \u2013** Around the world, legal systems are failing to deliver justice for women and girls who experience violence. And this is especially true when it comes to violence facilitated by technology, a phenomenon that is global, widespread and proliferating rapidly, but seldom criminalized or prosecuted.\n\nThis month, leaders from around the world will convene at the United Nations office"
+    },
+    {
+      "id": "4201594",
+      "title": "For All Women and Girls: Dignity, Justice and Action",
+      "agency": "Caritas",
+      "deadline": "",
+      "url": "https://reliefweb.int/node/4201594",
+      "source": "ReliefWeb",
+      "description": "On this International Women\u2019s Day, we join the global call for advancing equality, protecting human dignity, and ensuring safety and justice for all women and girls \u2014 not as ideals, but as lived realities.\n\nThe Universal Declaration of Human Rights states: *\u201cAll are equal before the law and are entitled without any discrimination to equal protection of the law.\u201d* (Article 7) echoing the creation a"
+    },
+    {
+      "id": "4201562",
+      "title": "South Sudan: Conflict in Jonglei State Flash Update No. 11 (as of 6 March 2026)",
+      "agency": "UN Office for the Coordination of Humanitarian Affairs",
+      "deadline": "",
+      "url": "https://reliefweb.int/node/4201562",
+      "source": "ReliefWeb",
+      "description": "**HIGHLIGHTS**\n\n- MSF reported 26 staff members missing in Lankien, Nyirol County and Pieri, Uror County, Jonglei State, following recent clashes.\n- On 27 February, local authorities reported a surge in population movement in Nyirol, Uror, Akobo, Ayod, Duk, Twic East and Bor South Counties, Jonglei State and Canal/Pigi, Upper Nile State\n- On 26 February, Member States issued a statement condemning"
+    },
+    {
+      "id": "4201552",
+      "title": "International Women\u2019s Day: Rights, justice, and action for women and girls",
+      "agency": "UNAIDS",
+      "deadline": "",
+      "url": "https://reliefweb.int/node/4201552",
+      "source": "ReliefWeb",
+      "description": "**GENEVA, 6 March -** Globally, in 2024, around 4,000 adolescent girls and young women newly acquired HIV every week\u20143,300 of whom live in sub-Saharan Africa, where women and girls make up around two in every three new HIV infections.\n\nThe statistics do not end there.\n\n- Nearly one in four adolescent girls experiences physical or sexual violence before the age of 20.\n- According to UNFPA, fewer th"
+    },
+    {
       "id": "4201476",
       "title": "Bangladesh | Cyclone: Early Action Protocol - 2025 Annual Report (EAP \u2116: EAP2021BD06, Operation \u2116: MDRBD033), 5 March 2026",
       "agency": "International Federation of Red Cross and Red Crescent Societies",
@@ -1896,40 +1872,40 @@
       "description": "**Nairobi -** For the first time, Kenya has measured how children under five are growing, learning, and developing as part of a major national health survey, a move that could reshape how the country designs and delivers support for its youngest citizens.\n\nThe early years of a child's life are widely recognised as the most significant period of brain development. The quality of nurturing care a ch"
     },
     {
-      "id": "4201396",
-      "title": "Ethiopia launches digitalization of public health emergency management system, advances toward PHEM Center of Excellence",
-      "agency": "World Health Organization",
+      "id": "4201709",
+      "title": "Lebanon: Flash Update #1 - Escalation of hostilities in Lebanon, as of 5 March 2026",
+      "agency": "UN Office for the Coordination of Humanitarian Affairs",
       "deadline": "",
-      "url": "https://reliefweb.int/node/4201396",
+      "url": "https://reliefweb.int/node/4201709",
       "source": "ReliefWeb",
-      "description": "**Addis Ababa, Ethiopia** - In a landmark step toward strengthening national health security, Ethiopia officially launched the digitalization of its Public Health Emergency Management (PHEM) system, marking significant progress toward establishing the Public Health Emergency Management Center of Excellence (PHEM-COE).\n\nThe high-level event in Addis Ababa convened senior government leaders and deve"
+      "description": "The current escalation in Lebanon is unfolding in the context of the wider regional situation. On 2 March, rockets and drones were launched from southern Lebanon by Hezbollah toward northern Israel. This was followed by large-scale Israeli military operations across Lebanon, causing massive displacement and civilian casualties. According to the Disaster Risk Management Unit (DRM), a total of 403 h"
     },
     {
-      "id": "4201346",
-      "title": "Japan and UNHCR sign USD 2.6 million assistance to Rohingya refugees in Cox\u2019s Bazar",
-      "agency": "UN High Commissioner for Refugees",
+      "id": "4201608",
+      "title": "Middle East Crisis: Relief International prepares to deploy emergency medical units across Lebanon",
+      "agency": "Relief International",
       "deadline": "",
-      "url": "https://reliefweb.int/node/4201346",
+      "url": "https://reliefweb.int/node/4201608",
       "source": "ReliefWeb",
-      "description": "The Government of Japan today renewed its commitment to Rohingya refugees in Bangladesh, pledging USD 2.6 million for shelter materials, primary healthcare, and clean cooking sets.\n\nAn Exchange of Notes was signed by H.E. Mr. SAIDA Shinichi, Ambassador of Japan to Bangladesh, and Ivo Freijsen, UNHCR Representative in Bangladesh.\n\nJapan\u2019s generous support enables UNHCR, the UN Refugee Agency, to ma"
+      "description": "In Lebanon, consecutive days of blanket evacuation orders, airstrikes, and an anticipated ground invasion are causing hundreds of thousands of people to flee their homes and seek refuge in public schools being used as collective shelters.\n\nRelief International, a non-profit organization which provides critical healthcare in Lebanon, is preparing to deploy emergency mobile medical units to shelters"
     },
     {
-      "id": "4201334",
-      "title": "Goats help girls avoid child marriage as rates rise in Bangladesh",
-      "agency": "Save the Children",
+      "id": "4201563",
+      "title": "Women are leading polio outbreak response efforts across Africa - GPEI",
+      "agency": "Global Polio Eradication Initiative",
       "deadline": "",
-      "url": "https://reliefweb.int/node/4201334",
+      "url": "https://reliefweb.int/node/4201563",
       "source": "ReliefWeb",
-      "description": "**DHAKA, 5 March 2026** - More than 1,000 girls in Bangladesh have avoided marriage and stayed in education after receiving income-generating support from Save the Children, including being given goats for rearing, at a time when child marriage is on the rise.\n\nBangladesh has the highest percentage of child marriages in Asia, according to the UN \\[1\\], with nearly 42% of children married before 18"
+      "description": "Every child protected from polio represents a conversation that worked, a door that opened, a mother reassured, a family reached. Behind each of those moments, in the Democratic Republic of the Congo (DRC), in Ethiopia, in Nigeria, is a woman who is making it happen.\n\nAcross all three countries, when women are provided genuine authority, trained resources, and institutional recognition, vaccinatio"
     },
     {
-      "id": "4201321",
-      "title": "IFRC warns harmful information is putting lives at risk during crises | IFRC",
-      "agency": "International Federation of Red Cross and Red Crescent Societies",
+      "id": "4201559",
+      "title": "Alertes de maladies \u00e9pid\u00e9miques et \u00e9mergentes en Oc\u00e9anie le 03 mars 2026",
+      "agency": "Pacific Community",
       "deadline": "",
-      "url": "https://reliefweb.int/node/4201321",
+      "url": "https://reliefweb.int/node/4201559",
       "source": "ReliefWeb",
-      "description": "**Geneva, 5 March 2026 \u2013** Harmful information is undermining life-saving humanitarian action at a time when disasters are affecting more people, more often, according to the [***World Disasters Report 2026***](https://www.ifrc.org/document/world-disasters-report-2026), released today by the International Federation of Red Cross and Red Crescent Societies (IFRC).\n\nBetween 2020 and 2024, disasters "
+      "description": "**\u00c9l\u00e9ments nouveaux/faits marquants intervenus depuis la diffusion de la carte pr\u00e9c\u00e9dente sur PacNet, le 24 f\u00e9vrier 2026 :**\n\n**Dengue**\n\n- **Nouvelle-Cal\u00e9donie :** La Au 26 f\u00e9vrier 2026, 117 cas de dengue avaient \u00e9t\u00e9 notifi\u00e9s en Nouvelle-Cal\u00e9donie depuis le 1er janvier 2026, dont 104 cas confirm\u00e9s et neuf cas probables autochtones, ainsi que trois cas import\u00e9s et un cas clinique. Le s\u00e9rotype DENV"
     },
     {
       "id": "4201502",
@@ -1986,22 +1962,13 @@
       "description": "**Description of the Event**\n\n**Date when the trigger was met**\n\n24-02-2026\n\n**What happened, where and when?**\n\nThe food security situation in Cameroon has steadily deteriorated throughout 2025 due to overlapping climatic, economic, conflict-related, and public-health shocks. In response to growing concerns and information gaps, the Cameroon Red Cross conducted a large-scale community assessment "
     },
     {
-      "id": "4201401",
-      "title": "Ethiopia: A New Phase of Support for Safety Nets will Foster Resilience and Create Pathways to Decent Jobs",
-      "agency": "World Bank",
+      "id": "4201679",
+      "title": "Walking for her life: the triple healthcare delay for women in Somalia",
+      "agency": "M\u00e9decins Sans Fronti\u00e8res",
       "deadline": "",
-      "url": "https://reliefweb.int/node/4201401",
+      "url": "https://reliefweb.int/node/4201679",
       "source": "ReliefWeb",
-      "description": "**WASHINGTON, March 3, 2026** \u2014 The World Bank\u2019s Board of Executive Directors approved a new phase of support for safety nets in Ethiopia under the [Productive Safety Net Project 6](https://documents1.worldbank.org/curated/en/099111425070037792/pdf/P511478-ba2ad2f0-3dbb-4993-b589-00b84ca54059.pdf) (PSNP 6), a project designed to create jobs, enhance food security, build climate resilience, and sup"
-    },
-    {
-      "id": "4201400",
-      "title": "Jimma University advances local innovation to strengthen antimicrobial resistance surveillance in Ethiopia",
-      "agency": "World Health Organization",
-      "deadline": "",
-      "url": "https://reliefweb.int/node/4201400",
-      "source": "ReliefWeb",
-      "description": "Jimma, Ethiopia | 27 February 2026 \u2014 Jimma University is advancing national efforts in Ethiopia to combat antimicrobial resistance (AMR) through the Local Production of Antibiotic Disc (LoPAD) project, an innovative initiative supported by the World Health Organization (WHO) under the Leap Engage Accelerate Disrupt (LEAD) Innovation Challenge Program.\n\nThe project is testing the possibility of loc"
+      "description": "In Baidoa, South-West state, [Somalia](https://www.msf.org/somalia), Shaheen BiBi is the M\u00e9decins Sans Fronti\u00e8res (MSF) midwife activity manager at Bay Regional hospital. She describes the challenges that women in Somalia face in accessing lifesaving services; the \u201ctriple delay\u201d of seeking, reaching, and receiving care.\n\nShe was carried on a makeshift stretcher, the afternoon sun scorching the roo"
     },
     {
       "id": "4201412",
@@ -2076,13 +2043,22 @@
       "description": "**Highlights**\n\n- In 2026, approximately 21.9 million people - close to half of the population - require humanitarian assistance, including over 11.6 million children.\n- In January 2026, 46,795 children were admitted for inpatient and outpatient treatment. To prevent malnutrition, 185,234 caregivers of young children received counselling on maternal, infant and young child nutrition (MIYCN), while"
     },
     {
-      "id": "4200389",
-      "title": "The crisis in Cabo Delgado is far from over",
-      "agency": "M\u00e9decins Sans Fronti\u00e8res",
+      "id": "4201606",
+      "title": "Radio Ergo Weekly Feedback Report, Issued: 6 March 2026",
+      "agency": "Radio Ergo",
       "deadline": "",
-      "url": "https://reliefweb.int/node/4200389",
+      "url": "https://reliefweb.int/node/4201606",
       "source": "ReliefWeb",
-      "description": "A recent flare-up of conflict in northern Mozambique is a stark reminder that the situation remains volatile, just as MSF concluded its response in key areas.\n\nConflict has ravaged the province of [Cabo Delgado](https://www.doctorswithoutborders.org/latest/conflict-feels-endless-mass-displacement-surges-northern-mozambique) in northern [Mozambique](https://www.doctorswithoutborders.org/what-we-do/"
+      "description": "**Brief Analysis**\n\nThis is our first capture of audience calls during the current ongoing season of Ramadan. The report analyses the experiences, needs, and requests of callers to Radio Ergo\u2019s nationwide audience feedback platform during the week 26 February to 4 March 2026. The majority of callers were preoccupied by the harsh impacts of the drought on their lives and livelihoods. In terms of nu"
+    },
+    {
+      "id": "4201593",
+      "title": "The drought-conflict reality for women and girls in Sudan, South Sudan and Somalia",
+      "agency": "Inter-Agency Working Group East and Central Africa",
+      "deadline": "",
+      "url": "https://reliefweb.int/node/4201593",
+      "source": "ReliefWeb",
+      "description": "International Women\u2019s Day (IWD) 2026 calls for \u201cRights. Justice. Action. For ALL Women and Girls.\u201d (United Nations). In Sudan, South Sudan and Somalia, these words resonate in contexts where drought and conflict collide - driving displacement, hunger, and protection risks while stretching already fragile services for women and girls. As the Inter-Agency Working Group (IAWG), we issue this joint ca"
     },
     {
       "id": "4201487",
@@ -2103,6 +2079,15 @@
       "description": "The fourth edition of the WHO S\u00e3o Tom\u00e9 and Pr\u00edncipe Quarterly Newsletter highlights key achievements from October to December 2025. The country completed both the IHR self\u2011assessment and the Joint External Evaluation, marking major progress in health security. Important steps were taken in health financing with the publication of the National Health Accounts and international recognition of the Na"
     },
     {
+      "id": "4201334",
+      "title": "Goats help girls avoid child marriage as rates rise in Bangladesh",
+      "agency": "Save the Children",
+      "deadline": "",
+      "url": "https://reliefweb.int/node/4201334",
+      "source": "ReliefWeb",
+      "description": "**DHAKA, 5 March 2026** - More than 1,000 girls in Bangladesh have avoided marriage and stayed in education after receiving income-generating support from Save the Children, including being given goats for rearing, at a time when child marriage is on the rise.\n\nBangladesh has the highest percentage of child marriages in Asia, according to the UN \\[1\\], with nearly 42% of children married before 18"
+    },
+    {
       "id": "4201300",
       "title": "Statement of the Forty-fourth Meeting of the Polio IHR Emergency Committee (4 March 2026)",
       "agency": "World Health Organization",
@@ -2110,33 +2095,6 @@
       "url": "https://reliefweb.int/node/4201300",
       "source": "ReliefWeb",
       "description": "The 44th meeting of the Emergency Committee under the International Health Regulations (IHR or Regulations) on the international spread of poliovirus was convened by the WHO Director-General on 14 January 2026 with eight out of nine Committee members and the adviser meeting via video conference with affected countries, supported by the WHO Secretariat. The Emergency Committee reviewed the latest e"
-    },
-    {
-      "id": "4201297",
-      "title": "Statement by Under-Secretary-General Vanessa Frazier, Special Representative of the Secretary-General for Children and Armed Conflict - South Sudan (4 March 2026)",
-      "agency": "UN Office of the SRSG for Children and Armed Conflict",
-      "deadline": "",
-      "url": "https://reliefweb.int/node/4201297",
-      "source": "ReliefWeb",
-      "description": "**South Sudan: Alarming Surge in Grave Violations against Children amid Escalating Conflict**\n\nSouth Sudan\u2019s children are facing an alarming surge in grave violations amid escalating conflict and deteriorating security conditions. As hostilities intensify across the country, children are paying the highest price.\n\nA dramatic deterioration in the protection of children was recorded in 2025, with th"
-    },
-    {
-      "id": "4201286",
-      "title": "Mongolia: Snow Storm - DREF Operation (MDRMN021)",
-      "agency": "International Federation of Red Cross and Red Crescent Societies",
-      "deadline": "",
-      "url": "https://reliefweb.int/node/4201286",
-      "source": "ReliefWeb",
-      "description": "**Description of the Event**\n\n**Date of event**\n\n24-02-2026\n\n**What happened, where and when?**\n\nThe snowstorm event started since 21 February 2026 across multiple provinces in Mongolia, particularly affecting eastern, northern, southern, and western regions, including Bayanhongor, Darkhan-Uul, Orkhon, Dornod, Dornogovi, Dundgovi, Govi-Altai, Khentii, Khuvsgul, Selenge, Sukhbaatar, Umnugovi, Tuv, "
-    },
-    {
-      "id": "4201277",
-      "title": "Uncovering flood-driven deprivation from space",
-      "agency": "Australian National University",
-      "deadline": "",
-      "url": "https://reliefweb.int/node/4201277",
-      "source": "ReliefWeb",
-      "description": "**Ishmam Rayan Haq**\n\nEvery year, millions of Bangladeshis [face devastating floods](https://www.unicef.org/bangladesh/en/stories/climate-displacement-loss-and-uncertain-futures) that threaten livelihoods, food security and long-term development. While local adaptation efforts are important, large-scale mitigation through regional cooperation and upstream water management is also critical for redu"
     },
     {
       "id": "4200587",
@@ -2155,6 +2113,15 @@
       "url": "https://reliefweb.int/node/4200404",
       "source": "ReliefWeb",
       "description": "For a health facility in northern Togo, effective analysis and use of routine surveillance data can mean the difference between identifying a rise in malaria cases early or only recognizing it once wards are full and children present with severe disease. For malaria programmes across Africa, the ability of health workers to understand and act on data directly shapes who receives timely care.\n\nYet "
+    },
+    {
+      "id": "4200389",
+      "title": "The crisis in Cabo Delgado is far from over",
+      "agency": "M\u00e9decins Sans Fronti\u00e8res",
+      "deadline": "",
+      "url": "https://reliefweb.int/node/4200389",
+      "source": "ReliefWeb",
+      "description": "A recent flare-up of conflict in northern Mozambique is a stark reminder that the situation remains volatile, just as MSF concluded its response in key areas.\n\nConflict has ravaged the province of [Cabo Delgado](https://www.doctorswithoutborders.org/latest/conflict-feels-endless-mass-displacement-surges-northern-mozambique) in northern [Mozambique](https://www.doctorswithoutborders.org/what-we-do/"
     },
     {
       "id": "4200381",
@@ -2211,6 +2178,24 @@
       "description": "The WHO in Burkina Faso 2024\u20132025 Biennial Report documents major public health achievements delivered in a context marked by security constraints, population displacement, and climate\u2011related pressures.\n\nA key milestone during the biennium was the scale-up of the malaria vaccine across all 70 health districts, representing a critical advance in malaria prevention and child health. The report also"
     },
     {
+      "id": "4201691",
+      "title": "Fact Sheet: Tuberculosis and HIV",
+      "agency": "Pan American Health Organization",
+      "deadline": "",
+      "url": "https://reliefweb.int/node/4201691",
+      "source": "ReliefWeb",
+      "description": "Tuberculosis (TB) and Human Immunodeficiency Virus (HIV) frequently occur together and are considered coinfections, as TB often presents as an opportunistic infection in people living with HIV whose immune systems are weakened. TB remains one of the leading preventable causes of death among people living with HIV. People living with HIV are up to 20 times more likely to develop TB. Preventing TB a"
+    },
+    {
+      "id": "4201677",
+      "title": "MSF adapts and scales up activities amid escalating Middle East conflict",
+      "agency": "M\u00e9decins Sans Fronti\u00e8res",
+      "deadline": "",
+      "url": "https://reliefweb.int/node/4201677",
+      "source": "ReliefWeb",
+      "description": "- Amid the sharp escalation in Middle East violence, bombing has killed, injured and displaced people.\n- MSF teams in Lebanon and Iran are adapting activities in response, while scaling up as possible.\n- We urge for the protection of civilians and all medical infrastructure.\n\nM\u00e9decins Sans Fronti\u00e8res (MSF) is alarmed by the dramatic escalation in [conflict ](https://www.msf.org/war-and-conflict)ac"
+    },
+    {
       "id": "4200764",
       "title": "Sudan: Lifeline for thousands of children as first vaccine shipment in nearly three years arrives in South Kordofan",
       "agency": "Save the Children",
@@ -2265,24 +2250,6 @@
       "description": "## In the world\u2019s youngest country, photographer Nicol\u00f2 Filippo Rosso finds \u201ca stark manifestation of layers upon layers of violence, tragedy, and conflict.\u201d\n\n### Barely a decade after gaining independence, the world\u2019s youngest nation, [South Sudan](https://www.doctorswithoutborders.org/what-we-do/where-we-work/south-sudan), continues to face overlapping crises: open conflict, violence, insecurity"
     },
     {
-      "id": "4199219",
-      "title": "WFP Malawi Country Brief November 2025",
-      "agency": "World Food Programme",
-      "deadline": "",
-      "url": "https://reliefweb.int/node/4199219",
-      "source": "ReliefWeb",
-      "description": "**In Numbers**\n\n483 mt of maize distributed for 2025/26 Emergency Lean Season Response\n\n43,479 people assisted for 2025/26 Emergency Lean Season Response\n\nUSD 64 million six-month net funding requirements (December 2025 to May 2026) representing 58 percent of total requirements.\n\n**Operational Updates**\n\n\u2022 Emergency lean season response: A country-wide State of Disaster has been declared following"
-    },
-    {
-      "id": "4199145",
-      "title": "What\u2019s left after the flames: Four years of full-scale war in Ukraine",
-      "agency": "M\u00e9decins Sans Fronti\u00e8res",
-      "deadline": "",
-      "url": "https://reliefweb.int/node/4199145",
-      "source": "ReliefWeb",
-      "description": "## Attacks are devastating frontline communities and increasing humanitarian needs among displaced people, from shelter to medical care.\n\n### Two-month old Damir has only been bathed twice in his life: once in the hospital, and once on a rare day when electricity briefly returned.  \n\n\n\u201cWe use wipes now because it\u2019s very cold,\u201d says Damir\u2019s mother, Kateryna Murashkina. \u201cThe room doesn\u2019t warm up in "
-    },
-    {
       "id": "4200803",
       "title": "UNICEF East Asia and Pacific Region Humanitarian Situation Report No. 2 (End of Year), 31 December 2025",
       "agency": "UN Children's Fund",
@@ -2308,24 +2275,6 @@
       "url": "https://reliefweb.int/node/4200594",
       "source": "ReliefWeb",
       "description": "**Background**\n\nIn 2015, United Nations Member States adopted the 2030 Agenda for Sustainable Development, committing to ending AIDS as a public health threat by 2030. This commitment was reaffirmed in the political declarations on HIV and AIDS adopted at the United Nations General Assembly High-Level Meetings on AIDS in June 2016 and June 2021. There have been remarkable successes in the HIV resp"
-    },
-    {
-      "id": "4200192",
-      "title": "Review and mapping of Global Fund investments in priority comorbidities in Grand Cycle 7 to improve the health and well-being of people living with or at risk of HIV and/or TB (February 2026)",
-      "agency": "UNAIDS",
-      "deadline": "",
-      "url": "https://reliefweb.int/node/4200192",
-      "source": "ReliefWeb",
-      "description": "This report developed by UNAIDS and the United for Global Mental Health reviews and maps Global Fund investments in priority HIV and TB comorbidities in Grant Cycle 7 (GC7), including key non-communicable diseases (NCDs), cervical, anorectal and other cancers, and mental health and substance use conditions. It highlights how countries prioritize and are integrating health services and other interv"
-    },
-    {
-      "id": "4199755",
-      "title": "Why youth participation is crucial to MSF\u2019s work in Mbare, Zimbabwe",
-      "agency": "M\u00e9decins Sans Fronti\u00e8res",
-      "deadline": "",
-      "url": "https://reliefweb.int/node/4199755",
-      "source": "ReliefWeb",
-      "description": "**An MSF project in Zimbabwe centers the voices of young people to better meet their specific health needs, making them active contributors to the design and delivery of their care.**\n\nAt just 21 years old, Thormilson Thompson carries a responsibility far greater than his age might suggest: helping other young people access health care in care in Mbare, a suburb of [Zimbabwe\u2019s](https://www.doctors"
     },
     {
       "id": "4196673",
