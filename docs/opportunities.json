@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-03-07T07:22:06Z",
-  "total": 245,
+  "last_updated": "2026-03-08T07:24:58Z",
+  "total": 244,
   "by_source": {
     "Grants.gov": 152,
     "WHO": 9,
     "Gates Foundation (Grand Challenges)": 6,
     "Wellcome Trust": 13,
-    "ReliefWeb": 65
+    "ReliefWeb": 64
   },
   "opportunities": [
     {
@@ -1290,16 +1290,6 @@
       "description": ""
     },
     {
-      "id": "360931",
-      "title": "Engineering Improved Stem Cell-Derived Islet Cells for Replacement Therapies (R01 - Clinical Trial Not Allowed)",
-      "agency": "HHS-NIH11",
-      "deadline": "03/07/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/360931",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
       "id": "360918",
       "title": "Cancer Center Support Grants (CCSGs) for NCI-designated Cancer Centers (P30 Clinical Trial Optional)",
       "agency": "HHS-NIH11",
@@ -1356,6 +1346,16 @@
       "deadline": "",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/360544",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "360516",
+      "title": "Advancing Strategies to Enhance Preventative Health to Older Adults in the Senior Nutrition Program",
+      "agency": "HHS-ACL",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/360516",
       "source": "Grants.gov",
       "description": ""
     },
@@ -1872,6 +1872,24 @@
       "description": "**Nairobi -** For the first time, Kenya has measured how children under five are growing, learning, and developing as part of a major national health survey, a move that could reshape how the country designs and delivers support for its youngest citizens.\n\nThe early years of a child's life are widely recognised as the most significant period of brain development. The quality of nurturing care a ch"
     },
     {
+      "id": "4201730",
+      "title": "Lebanon: Flash Update #2 - Escalation of hostilities in Lebanon, as of 6 March 2026",
+      "agency": "UN Office for the Coordination of Humanitarian Affairs",
+      "deadline": "",
+      "url": "https://reliefweb.int/node/4201730",
+      "source": "ReliefWeb",
+      "description": "The security situation has sharply deteriorated, with frequent airstrikes, rising casualties, 694 hostile incidents recorded by the DRM, and increasingly broad Israeli displacement orders, which have shifted from **village-specific evacuation instructions to broad geographic displacement directives**, significantly increasing the scale and complexity of population movements. In addition, **expande"
+    },
+    {
+      "id": "4201723",
+      "title": "Lebanon Health Sector Emergency Situation Report - Issue#1",
+      "agency": "Health Cluster",
+      "deadline": "",
+      "url": "https://reliefweb.int/node/4201723",
+      "source": "ReliefWeb",
+      "description": "This Emergency Health Situation Report provides regular updates on the evolving health situation, highlighting key developments, priority public health concerns, and the overall impact on health services. It summarizes the ongoing health sector response, including actions undertaken by partners, service delivery updates, and coordination efforts. The report also outlines operational challenges, ga"
+    },
+    {
       "id": "4201709",
       "title": "Lebanon: Flash Update #1 - Escalation of hostilities in Lebanon, as of 5 March 2026",
       "agency": "UN Office for the Coordination of Humanitarian Affairs",
@@ -1942,24 +1960,6 @@
       "url": "https://reliefweb.int/node/4201485",
       "source": "ReliefWeb",
       "description": "**Highlights**\n\n- South Asia experienced a year of severe and overlapping crises, including climate related floods, landslides, cyclones, droughts, extreme heat, and earthquakes, alongside major public health emergencies and protracted man-made shocks marked by conflict related violence and cross-border dynamics.\n- UNICEF reached 22.5 million crisis affected people through life-saving health, nutr"
-    },
-    {
-      "id": "4201480",
-      "title": "Knowledge Management Series for Health: Outbreak Response in a Fragile System: Cholera Knockout in South Sudan (March 2026)",
-      "agency": "World Health Organization",
-      "deadline": "",
-      "url": "https://reliefweb.int/node/4201480",
-      "source": "ReliefWeb",
-      "description": "**Context of Cholera in South Sudan**\n\nCholera remains a significant public health threat in South Sudan, particularly in areas with limited access to safe water, sanitation, and timely healthcare. The country has experienced repeated outbreaks over the past decade, often exacerbated by population displacement, flooding, and fragile health infrastructure.\n\nThe current outbreak started in September"
-    },
-    {
-      "id": "4201472",
-      "title": "Cameroon Food Insecurity Assessment and Response: DREF Operation Update #1 (MDRCM042)",
-      "agency": "International Federation of Red Cross and Red Crescent Societies",
-      "deadline": "",
-      "url": "https://reliefweb.int/node/4201472",
-      "source": "ReliefWeb",
-      "description": "**Description of the Event**\n\n**Date when the trigger was met**\n\n24-02-2026\n\n**What happened, where and when?**\n\nThe food security situation in Cameroon has steadily deteriorated throughout 2025 due to overlapping climatic, economic, conflict-related, and public-health shocks. In response to growing concerns and information gaps, the Cameroon Red Cross conducted a large-scale community assessment "
     },
     {
       "id": "4201679",
@@ -2086,15 +2086,6 @@
       "url": "https://reliefweb.int/node/4201334",
       "source": "ReliefWeb",
       "description": "**DHAKA, 5 March 2026** - More than 1,000 girls in Bangladesh have avoided marriage and stayed in education after receiving income-generating support from Save the Children, including being given goats for rearing, at a time when child marriage is on the rise.\n\nBangladesh has the highest percentage of child marriages in Asia, according to the UN \\[1\\], with nearly 42% of children married before 18"
-    },
-    {
-      "id": "4201300",
-      "title": "Statement of the Forty-fourth Meeting of the Polio IHR Emergency Committee (4 March 2026)",
-      "agency": "World Health Organization",
-      "deadline": "",
-      "url": "https://reliefweb.int/node/4201300",
-      "source": "ReliefWeb",
-      "description": "The 44th meeting of the Emergency Committee under the International Health Regulations (IHR or Regulations) on the international spread of poliovirus was convened by the WHO Director-General on 14 January 2026 with eight out of nine Committee members and the adviser meeting via video conference with affected countries, supported by the WHO Secretariat. The Emergency Committee reviewed the latest e"
     },
     {
       "id": "4200587",
